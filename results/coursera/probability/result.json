@@ -1,0 +1,958 @@
+[
+  {
+    "avgLearningHours": 22,
+    "tagline": "Offered by Duke University",
+    "name": "Introduction to Probability and Data",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 142694,
+    "partners": [
+      "Duke University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 3358,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 4.726622989874926,
+    "skills": [
+      "Statistics",
+      "Exploratory Data Analysis",
+      "Probability",
+      "R Programming"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/6f/84dd00f4e311e5b1964b8e2cbb6cfc/intro_to_data_and_probability.png",
+    "objectUrl": "/learn/probability-intro",
+    "objectID": "course~2dHcFsRdEeW2JxKnR3RyOw",
+    "_snippetResult": {
+      "description": {
+        "value": "This course introduces you to sampling and exploring data, as well as basic <mark>probability</mark> theory and Bayes' rule. You will",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to <mark>Probability</mark> and Data",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "probability"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 14,
+    "tagline": "Offered by University of Zurich",
+    "name": "An Intuitive Introduction to Probability",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/cc/953171de0d77c6e7b0db553f2ca932/uzh_logo_e_pos_360.png"
+    ],
+    "subtitleLanguage": [
+      "Persian"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 21805,
+    "partners": [
+      "University of Zurich"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 679,
+    "allLanguageCodes": [
+      "en",
+      "fa"
+    ],
+    "avgProductRating": 4.726067746686304,
+    "skills": [
+      "Probability Theory",
+      "Conditional Probability",
+      "Normal Distribution",
+      "Probability Distribution",
+      "Bayes' Theorem",
+      "Studentized Residual",
+      "Probability",
+      "Dynkin System"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/34/453010a2a211e69e5b2d62ff69e8ef/MOOC_Decision_making_World_Coursera_1200x1200.jpg",
+    "objectUrl": "/learn/introductiontoprobability",
+    "objectID": "course~istduPpxEeWLNRKTxmetJQ",
+    "_snippetResult": {
+      "description": {
+        "value": "your earned knowledge right away. \\n\\nThe topics covered are: \"<mark>Probability</mark>\", \"Conditional <mark>Probability</mark>\", \"Applications\", \"Random Variables\", and \"Normal Distribution\".\\n",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "An Intuitive Introduction to <mark>Probability</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "probability"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 21,
+    "tagline": "Offered by National Research University Higher School of Economics, and University of California San Diego",
+    "name": "Combinatorics and Probability",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png",
+      "https://coursera-university-assets.s3.amazonaws.com/4b/a551cb6e1307836a21059a79e7ae70/UCSanDiego-Coursera-square.png"
+    ],
+    "subtitleLanguage": [
+      "Greek",
+      "Chinese (China)"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 14607,
+    "partners": [
+      "National Research University Higher School of Economics",
+      "University of California San Diego"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 316,
+    "allLanguageCodes": [
+      "en",
+      "zh",
+      "el"
+    ],
+    "avgProductRating": 4.610759493670886,
+    "skills": [
+      "Environment Variable",
+      "Probability Theory",
+      "Combinatorics",
+      "Randomness",
+      "Combination",
+      "Probability Interpretations",
+      "Random Variable",
+      "Permutations",
+      "Probability"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/98/8fb81076a011e79d073ba265e37f90/logo_comb_800x800.png",
+    "objectUrl": "/learn/combinatorics",
+    "objectID": "course~nZYl8m_GEeeLuxKawECaMg",
+    "_snippetResult": {
+      "description": {
+        "value": "implementations.\\n\\nOne of the main `consumers’ of Combinatorics is <mark>Probability</mark> Theory. This area is connected with numerous sides of",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Combinatorics and <mark>Probability</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "probability"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 21,
+    "tagline": "Offered by University of London",
+    "name": "Probability and Statistics: To p or not to p?",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/fb/b28a301e0211e8a40e23e4176c8e4a/UoL-Logo_180x180.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 10231,
+    "partners": [
+      "University of London"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 163,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.515337423312883,
+    "skills": [
+      "Software Testing",
+      "Hypothesis Testing",
+      "Mean",
+      "P-Value",
+      "Statistics",
+      "Probability Distribution",
+      "Probability And Statistics",
+      "Statistical Hypothesis Testing",
+      "Studentized Residual",
+      "Probability"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/54/69e300921a11e7897e899381a16c6e/Course-Icon.jpg",
+    "objectUrl": "/learn/probability-statistics",
+    "objectID": "course~b_ubIzckEeeeFwoohRNaig",
+    "_snippetResult": {
+      "description": {
+        "value": "should be on the look-out for \"black swans\" - low-<mark>probability</mark> high-impact events.\\n\\nTo study, or not to",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Probability</mark> and Statistics: To p or not to p?",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "probability"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 22,
+    "tagline": "Offered by University of California, Santa Cruz",
+    "name": "Bayesian Statistics: From Concept to Data Analysis",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e4/78778097e311e7bea119a82491d24d/UCSC_Coursera.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 76343,
+    "partners": [
+      "University of California, Santa Cruz"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1793,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.569994422755159,
+    "skills": [
+      "Statistics",
+      "Bayesian Statistics",
+      "Probability",
+      "Inference",
+      "Bayesian",
+      "Studentized Residual",
+      "Prior Probability",
+      "Conjugate Prior",
+      "Bayesian Inference"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/94/34f33c28e748f6896a52cffa7b517d/Bayesian1.jpg",
+    "objectUrl": "/learn/bayesian-statistics",
+    "objectID": "course~Qqmr3fBKEeWLaBLI8fdMlw",
+    "_snippetResult": {
+      "description": {
+        "value": "This course introduces the Bayesian approach to statistics, starting with the concept of <mark>probability</mark> and moving to the analysis of",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Bayesian Statistics: From Concept to Data Analysis",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 15,
+    "tagline": "Offered by Duke University",
+    "name": "Data Science Math Skills",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 79479,
+    "partners": [
+      "Duke University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 2123,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.494583137070184,
+    "skills": [
+      "Probability Theory",
+      "Math",
+      "Bayes' Theorem",
+      "Euler'S Totient Function",
+      "Bayesian Probability",
+      "Probability",
+      "Dynkin System",
+      "Factorial"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/08/8c6610c07e11e6a7f5e70b413367a6/DMSIcon.jpg",
+    "objectUrl": "/learn/datasciencemathskills",
+    "objectID": "course~2RGeY3RDEeatvg5z1JaMJw",
+    "_snippetResult": {
+      "description": {
+        "value": "curve\\n~Exponents, logarithms, and the natural log function.\\n~<mark>Probability</mark> theory, including Bayes’ theorem.\\n\\nWhile this course is",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Data Science Math Skills",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 28,
+    "tagline": "Offered by National Research University Higher School of Economics",
+    "name": "Stochastic processes",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 18091,
+    "partners": [
+      "National Research University Higher School of Economics"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 143,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.482517482517482,
+    "skills": [
+      "Probability Theory",
+      "Stochastic",
+      "Probability",
+      "Modal Μ-Calculus",
+      "Stochastic Calculus",
+      "Stochastic Processes",
+      "Calculus"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b2/631220319711e88e0c5b920528184a/Logo-Stochastic-processes-_NEW_.jpg",
+    "objectUrl": "/learn/stochasticprocesses",
+    "objectID": "course~eEzir8ugEeeKkwo8Hmk5XA",
+    "_snippetResult": {
+      "description": {
+        "value": "assumed that the students are familiar with the basics of <mark>probability</mark> theory. Knowledge of the basics of mathematical statistics is",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Stochastic processes",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 10,
+    "tagline": "Offered by University of Pennsylvania",
+    "name": "Fundamentals of Quantitative Modeling",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/5e/4003d6fe94ae4089d5daf13129a515/penn-logo.png"
+    ],
+    "subtitleLanguage": [
+      "Russian"
+    ],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 90829,
+    "partners": [
+      "University of Pennsylvania"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 4344,
+    "allLanguageCodes": [
+      "en",
+      "ru"
+    ],
+    "avgProductRating": 4.6353591160221,
+    "skills": [
+      "Probability",
+      "Interpretation",
+      "Modeling"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/fc/d37630b00511e5ae9d8158e68cbd96/Wharton_Online_Quantitative_8x8.png",
+    "objectUrl": "/learn/wharton-quantitative-modeling",
+    "objectID": "course~1ZacN53KEeWlGQ5Xb9b0kw",
+    "_snippetResult": {
+      "description": {
+        "value": "How can you put data to work for you? Specifically, how can numbers in a spreadsheet tell us about present",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Fundamentals of Quantitative Modeling",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 22,
+    "tagline": "Offered by National Taiwan University",
+    "name": "頑想學概率：機率一 (Probability (1))",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/1d/af896d9aaed8926efc02bdcbd37a64/Emblem72.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (China)"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 10023,
+    "partners": [
+      "National Taiwan University"
+    ],
+    "language": "Chinese (Traditional)",
+    "entityType": "COURSE",
+    "numProductRatings": 205,
+    "allLanguageCodes": [
+      "zh"
+    ],
+    "avgProductRating": 4.809756097560975,
+    "skills": [
+      "Probability",
+      "Probability Distribution",
+      "Studentized Residual",
+      "Chi-Squared Distribution"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/8b/c7dcc68b7c1346c4c3dbe98d98c3ec/iStock_000000248160_Small.jpg",
+    "objectUrl": "/learn/prob1",
+    "objectID": "course~yYLXytaTEeWxGA7pQdBNkw",
+    "_snippetResult": {
+      "description": {
+        "value": "這是一個機率的入門課程，著重的是教授機率基",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "頑想學概率：機率一 (<mark>Probability</mark> (1))",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "probability"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 30,
+    "tagline": "Offered by Stanford University",
+    "name": "Probabilistic Graphical Models 1: Representation",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 62853,
+    "partners": [
+      "Stanford University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1130,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.676106194690266,
+    "skills": [
+      "Bayesian",
+      "Graphical Model",
+      "Probability Theory",
+      "Probability",
+      "Markov Networks",
+      "Markov Random Field",
+      "Markov Model",
+      "Bayesian Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera/topics/pgm/large-icon.png",
+    "objectUrl": "/learn/probabilistic-graphical-models",
+    "objectID": "course~guqOkAKDEeaG2A4kH1tj-w",
+    "_snippetResult": {
+      "description": {
+        "value": "Probabilistic graphical models (PGMs) are a rich framework for encoding <mark>probability</mark> distributions over complex domains: joint (multivariate) distributions over large",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Probabilistic Graphical Models 1: Representation",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 22,
+    "tagline": "Offered by Johns Hopkins University",
+    "name": "Mathematical Biostatistics Boot Camp 1",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/74/7ae340ec6911e5b395490a2a565172/JHU-Logo-Square-Mini_180px.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 40953,
+    "partners": [
+      "Johns Hopkins University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 253,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.478260869565218,
+    "skills": [
+      "Statistics",
+      "Confidence Interval",
+      "Confidence",
+      "Software Testing",
+      "Studentized Residual",
+      "Mathematical Statistics"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/eb/cf8c0e7e0bb418255e48fe210446c1/bootcamp_B-02.jpg",
+    "objectUrl": "/learn/biostatistics",
+    "objectID": "course~qogqSFgBEeWBNwpVGuknww",
+    "_snippetResult": {
+      "description": {
+        "value": "This class presents the fundamental <mark>probability</mark> and statistical concepts used in elementary data analysis. It will be taught at an",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Mathematical Biostatistics Boot Camp 1",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 17,
+    "tagline": "Offered by University of Houston System",
+    "name": "Math behind Moneyball",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/97/72aa1ac12339885a80230fd485cf50/UHS_square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 7154,
+    "partners": [
+      "University of Houston System"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 50,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.52,
+    "skills": [
+      "Probability",
+      "Microsoft Excel",
+      "Analytics",
+      "Probability And Statistics"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/a0/fe06b03cad11e695c9fb11250f84dd/moneyball-2.png",
+    "objectUrl": "/learn/mathematics-sport",
+    "objectID": "course~SQKpPNBFEeWLmRLZcSb_zw",
+    "_snippetResult": {
+      "description": {
+        "value": "Learn how <mark>probability</mark>, math, and statistics can be used to help baseball, football and basketball teams improve, player and lineup",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Math behind Moneyball",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 12,
+    "tagline": "Offered by EIT Digital ",
+    "name": "I/O-efficient algorithms",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/a3/600e10514611e5a00b63619b8b1825/EIT-Digital_Youtube.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 394,
+    "partners": [
+      "EIT Digital "
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 2,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 5,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/6c/0b32b0f87711e880e923f572d52b5f/io_4.png",
+    "objectUrl": "/learn/io-efficient-algorithms",
+    "objectID": "course~3oznDIM5EeeW1A7RTAITCg",
+    "_snippetResult": {
+      "description": {
+        "value": "manipulating summations, solving recurrences, working with logarithms, etc.\\n- Basic <mark>probability</mark> theory: events, <mark>probability</mark> distributions, random variables, expected values etc",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "I/O-efficient algorithms",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 30,
+    "tagline": "Offered by National Taiwan University",
+    "name": "頑想學概率：機率二 (Probability (2))",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/1d/af896d9aaed8926efc02bdcbd37a64/Emblem72.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (China)"
+    ],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 3312,
+    "partners": [
+      "National Taiwan University"
+    ],
+    "language": "Chinese (Traditional)",
+    "entityType": "COURSE",
+    "numProductRatings": 60,
+    "allLanguageCodes": [
+      "zh"
+    ],
+    "avgProductRating": 4.833333333333333,
+    "skills": [
+      "Probability"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/8b/c7dcc68b7c1346c4c3dbe98d98c3ec/iStock_000000248160_Small.jpg",
+    "objectUrl": "/learn/prob2",
+    "objectID": "course~CrM1YkL7EeaGiQqXG-1yWw",
+    "_snippetResult": {
+      "description": {
+        "value": "這是一個機率的入門課程，著重的是教授機率基",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "頑想學概率：機率二 (<mark>Probability</mark> (2))",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "probability"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 30,
+    "tagline": "Offered by Duke University",
+    "name": "Bayesian Statistics",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 51326,
+    "partners": [
+      "Duke University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 603,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 3.857379767827529,
+    "skills": [
+      "Bayesian Statistics",
+      "Statistics",
+      "Inference",
+      "Bayesian"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/65/c558c0f50211e5a52493c7e6aee302/baysian_statistics.v2a.png",
+    "objectUrl": "/learn/bayesian",
+    "objectID": "course~Hq7dl9ELEeWB-BI5fjMtHQ",
+    "_snippetResult": {
+      "description": {
+        "value": "in the earlier three courses in this specialization: \"Introduction to <mark>Probability</mark> and Data,\" \"Inferential Statistics,\" and \"Linear Regression and Modeling.\"",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Bayesian Statistics",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 12,
+    "tagline": "Offered by Rice University",
+    "name": "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/0a/f036c28cee4d77a78b078d73cb3f0a/University_Lockups_Digital_Rice_Blue_300x300.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 15507,
+    "partners": [
+      "Rice University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1022,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.738747553816047,
+    "skills": [
+      "Normal Distribution",
+      "Probability",
+      "Binomial Distribution",
+      "Dynkin System",
+      "Statistics",
+      "Poisson Distribution",
+      "Statistical Analysis",
+      "Studentized Residual",
+      "Basic Descriptive Statistics"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/0d/7b87d05f0a11e6bc2b7945d34f43c3/ChartsGraphsTabletThumb.jpg",
+    "objectUrl": "/learn/descriptive-statistics-statistical-distributions-business-application",
+    "objectID": "course~dLJlLLvTEeWH_w6eDJDPoQ",
+    "_snippetResult": {
+      "description": {
+        "value": "with the Excel functions to calculate them. The notion of <mark>probability</mark> or uncertainty is introduced along with the concept of",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 29,
+    "tagline": "Offered by Saint Petersburg State University",
+    "name": "Mathematical Game Theory",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/f7/9cff8f7e909ad6d37a2f94eb5cfd4f/CoA_Medium_color.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 1552,
+    "partners": [
+      "Saint Petersburg State University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 3,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 3.666666666666666,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/6d/7fc60589bc469daab13a7144da4e00/_________1200.jpg",
+    "objectUrl": "/learn/mathematical-game-theory",
+    "objectID": "course~ojXDdR1nEemYGxIyuAVIqA",
+    "_snippetResult": {
+      "description": {
+        "value": "any special knowledge. In several sections, definitions and theorems from mathematical analysis and elements of <mark>probability</mark> theory will be used.",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Mathematical Game Theory",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 16,
+    "tagline": "Offered by Columbia University",
+    "name": "Causal Inference",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2f/8bf130459a11e78f3f93ee93db5719/cu_collegiate_blue.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 4141,
+    "partners": [
+      "Columbia University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 17,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 3.588235294117647,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/52/939740aa2b11e8b22a0faab01f9d20/unnamed.png",
+    "objectUrl": "/learn/causal-inference",
+    "objectID": "course~tJApe-HgEeeSKxKWkG_JMg",
+    "_snippetResult": {
+      "description": {
+        "value": "such as matching, sub-classification on the propensity score, inverse <mark>probability</mark> of treatment weighting, and machine learning — to estimate a",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Causal Inference",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 15,
+    "tagline": "Offered by University of Michigan",
+    "name": "Successful Negotiation: Essential Strategies and Skills",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png"
+    ],
+    "subtitleLanguage": [
+      "Vietnamese",
+      "Portuguese (Portugal)",
+      "Ukrainian",
+      "Portuguese (Brazil)",
+      "Russian",
+      "Chinese (China)",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 573446,
+    "partners": [
+      "University of Michigan"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 6259,
+    "allLanguageCodes": [
+      "en",
+      "vi",
+      "zh",
+      "pt",
+      "es",
+      "uk",
+      "ru"
+    ],
+    "avgProductRating": 4.740054321776642,
+    "skills": [
+      "Contract Negotiation",
+      "Negotiation",
+      "Decision Tree"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/99/7ab7c00f7b11e79b617dbb2116532d/contractnegotiations_Logo_080814d.jpg",
+    "objectUrl": "/learn/negotiation-skills",
+    "objectID": "course~v0l76HmGEeSi3yIACzSGcw",
+    "_snippetResult": {
+      "description": {
+        "value": "We all negotiate on a daily basis. On a personal level, we negotiate with friends, family, landlords, car sellers and",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Successful Negotiation: Essential Strategies and Skills",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 26,
+    "tagline": "Offered by University of Pennsylvania",
+    "name": "A Crash Course in Causality:  Inferring Causal Effects from Observational Data",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/5e/4003d6fe94ae4089d5daf13129a515/penn-logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 13151,
+    "partners": [
+      "University of Pennsylvania"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 172,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.715116279069767,
+    "skills": [
+      "Propensity Score Matching",
+      "Probability",
+      "Causality",
+      "Matching",
+      "Inference",
+      "Instrumental Variable",
+      "Causal Inference"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b1/7db6500b4e11e79da877cf76ec2f89/newtons_cradle.png",
+    "objectUrl": "/learn/crash-course-in-causality",
+    "objectID": "course~CPy7BAtMEeeyDAoXlzPrFg",
+    "_snippetResult": {
+      "description": {
+        "value": "of causal inference methods (e.g. matching, instrumental variables, inverse <mark>probability</mark> of treatment weighting)\\n5.  Identify which causal assumptions are",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "A Crash Course in Causality:  Inferring Causal Effects from Observational Data",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  }
+]

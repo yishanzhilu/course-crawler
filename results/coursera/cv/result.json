@@ -1,0 +1,941 @@
+[
+  {
+    "avgLearningHours": 14,
+    "tagline": "Offered by IBM",
+    "name": "Introduction to Computer Vision with Watson and OpenCV",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 3187,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 156,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.525641025641026,
+    "skills": [
+      "Computer Vision",
+      "Watson (Computer)",
+      "Python Programming",
+      "Opencv"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/ea/c905977976478d866469a141228118/ComputerVision532x532.jpg",
+    "objectUrl": "/learn/introduction-computer-vision-watson-opencv",
+    "objectID": "course~NnsrLYMpEembjg5W4rOJ1g",
+    "_snippetResult": {
+      "description": {
+        "value": "<mark>Computer Vision</mark> is one of the most exciting fields in Machine Learning and AI. It has applications in many industries",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to <mark>Computer Vision</mark> with Watson and OpenCV",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "computer",
+          "vision"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 23,
+    "tagline": "Offered by National Research University Higher School of Economics",
+    "name": "Deep Learning in Computer Vision",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 24161,
+    "partners": [
+      "National Research University Higher School of Economics"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 173,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 3.774566473988439,
+    "skills": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/de/8a87108f2211e7b04e29ba33dce228/Deep-learning-for-computer-vision2.png",
+    "objectUrl": "/learn/deep-learning-in-computer-vision",
+    "objectID": "course~bkBQ-oNfEeenGxKEO5UIKA",
+    "_snippetResult": {
+      "description": {
+        "value": "<mark>vision</mark>. With deep learning, a lot of new applications of <mark>computer</mark> <mark>vision</mark> techniques have been introduced and are now becoming",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Deep Learning in <mark>Computer</mark> <mark>Vision</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "computer",
+          "vision"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 12,
+    "tagline": "Offered by University at Buffalo, and The State University of New York",
+    "name": "Computer Vision Basics",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ab/af2a00e2fd11e6afdccf8b30f1d74c/UB-Logo-BlueSquare.png",
+      "https://coursera-university-assets.s3.amazonaws.com/a3/b2acc03495de7a92aa23a6f029922a/SUNY-logo_blue.jpg.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 6562,
+    "partners": [
+      "University at Buffalo",
+      "The State University of New York"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 154,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 3.798701298701299,
+    "skills": [
+      "Computer Vision",
+      "Image Processing",
+      "Matlab"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/a7/4eb57e25fc49509873e0c44759144e/Course-1-v2-logo.jpg",
+    "objectUrl": "/learn/computer-vision-basics",
+    "objectID": "course~5YCz7-zMEeeMzQrhp6Bs1g",
+    "_snippetResult": {
+      "description": {
+        "value": "color, light and image formation; early, mid- and high-level <mark>vision</mark>; and mathematics essential for <mark>computer vision</mark>. Learners will be",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Computer Vision</mark> Basics",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "computer",
+          "vision"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Russian",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 100155,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 4498,
+    "allLanguageCodes": [
+      "en",
+      "es",
+      "ru"
+    ],
+    "avgProductRating": 4.690306803023566,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png",
+    "objectUrl": "/learn/introduction-tensorflow",
+    "objectID": "course~YpwHVDb5EemE7gr4SGSAsA",
+    "_snippetResult": {
+      "description": {
+        "value": "If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 20,
+    "tagline": "Offered by University of Toronto",
+    "name": "Visual Perception for Self-Driving Cars",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/04/1df8943d27a485a986a3ebf10c83d9/UofT-Crest-Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 4951,
+    "partners": [
+      "University of Toronto"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 117,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.606837606837606,
+    "skills": [
+      "Computer Vision"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/5e/55d590145511e99e65b5a6b6fb8568/Course3.png",
+    "objectUrl": "/learn/visual-perception-self-driving-cars",
+    "objectID": "course~Pr5NLlPyEei-RQ6pitSIHg",
+    "_snippetResult": {
+      "description": {
+        "value": "driving, static and dynamic object detection, and will survey common <mark>computer</mark> <mark>vision</mark> methods for robotic perception.  By the end of",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Visual Perception for Self-Driving Cars",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 13,
+    "tagline": "Offered by University of Michigan",
+    "name": "Python Project: pillow, tesseract, and opencv",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 6703,
+    "partners": [
+      "University of Michigan"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 260,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.192307692307692,
+    "skills": [
+      "Computer Programming",
+      "Ipython"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/f9/863fc0ea2311e8931fddf70eb768e1/pythonfluency_1x1_course_5.png",
+    "objectUrl": "/learn/python-project",
+    "objectID": "course~DA7HbuhGEeiv5BJPS6WWOA",
+    "_snippetResult": {
+      "description": {
+        "value": "This course will walk you through a hands-on project suitable for a portfolio. You will be introduced to third",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Python Project: pillow, tesseract, and opencv",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 56,
+    "tagline": "Offered by Stanford University",
+    "name": "Machine Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png"
+    ],
+    "subtitleLanguage": [
+      "Hebrew",
+      "Japanese",
+      "Hindi",
+      "Chinese (China)",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 2655317,
+    "partners": [
+      "Stanford University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 120193,
+    "allLanguageCodes": [
+      "he",
+      "en",
+      "es",
+      "zh",
+      "ja",
+      "hi"
+    ],
+    "avgProductRating": 4.916717279708469,
+    "skills": [
+      "Artificial Neural Network",
+      "Support Vector Machine",
+      "Gnu Octave",
+      "Machine Learning Algorithms",
+      "Machine Learning",
+      "Logistic Regression",
+      "Linearity",
+      "Algorithms"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera/topics/ml/large-icon.png",
+    "objectUrl": "/learn/machine-learning",
+    "objectID": "course~Gtv4Xb1-EeS-ViIACwYKVQ",
+    "_snippetResult": {
+      "description": {
+        "value": "smart robots (perception, control), text understanding (web search, anti-spam), <mark>computer</mark> <mark>vision</mark>, medical informatics, audio, database mining, and other areas.",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Machine Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by University at Buffalo, and The State University of New York",
+    "name": "Image Processing, Features & Segmentation",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ab/af2a00e2fd11e6afdccf8b30f1d74c/UB-Logo-BlueSquare.png",
+      "https://coursera-university-assets.s3.amazonaws.com/a3/b2acc03495de7a92aa23a6f029922a/SUNY-logo_blue.jpg.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 4147,
+    "partners": [
+      "University at Buffalo",
+      "The State University of New York"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 59,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 2.847457627118644,
+    "skills": [
+      "Image Segmentation",
+      "Matlab",
+      "Image Processing"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/9e/f27a20f8aa11e89395731d87fa0a14/shutterstock_1039555915.jpg",
+    "objectUrl": "/learn/computervision-imageprocessing",
+    "objectID": "course~8eK9iu-_EeeCjgp4IdClkg",
+    "_snippetResult": {
+      "description": {
+        "value": "<mark>Vision</mark> specialization that lays the groundwork necessary for designing sophisticated <mark>vision</mark> applications. \\n\\n * A free license to install MATLAB",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Image Processing, Features & Segmentation",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 21,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Convolutional Neural Networks",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Japanese",
+      "Korean",
+      "Spanish",
+      "Chinese (China)",
+      "Turkish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 190388,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 26505,
+    "allLanguageCodes": [
+      "en",
+      "tr",
+      "zh",
+      "es",
+      "ko",
+      "ja"
+    ],
+    "avgProductRating": 4.852405206564799,
+    "skills": [
+      "Convolutional Neural Network",
+      "Object Detection",
+      "Artificial Neural Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/2a/5d4810104e11e8a405e7a3b3b97580/CarouselAds_DL_Convolutional.png",
+    "objectUrl": "/learn/convolutional-neural-networks",
+    "objectID": "course~kWGvJivBEeeW5RJUyz1uFA",
+    "_snippetResult": {
+      "description": {
+        "value": "and apply it to image data. Thanks to deep learning, <mark>computer</mark> <mark>vision</mark> is working far better than just two years",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Convolutional Neural Networks",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 29,
+    "tagline": "Offered by University of Pennsylvania",
+    "name": "Robotics: Perception",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/5e/4003d6fe94ae4089d5daf13129a515/penn-logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 25573,
+    "partners": [
+      "University of Pennsylvania"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 492,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.392276422764228,
+    "skills": [
+      "Estimation"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/34/5971e07cda11e58108cf8cb753e7a9/Perception-Logo.png",
+    "objectUrl": "/learn/robotics-perception",
+    "objectID": "course~1eYewVu-EeWACQpGR_316w",
+    "_snippetResult": {
+      "description": {
+        "value": "How can robots perceive the world and their own movements so that they accomplish navigation and manipulation tasks?  In this",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Robotics: Perception",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 6,
+    "tagline": "Offered by Rhyme",
+    "name": "Project: Basic Image Classification with TensorFlow",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/4d/812936cee34e2384a57fa0bb152135/Icon_500px.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 162,
+    "partners": [
+      "Rhyme"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 6,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.5,
+    "skills": [
+      "Keras",
+      "Tensorflow"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/d4/a22d18c46a451eac1d2a6236f31205/Course-BIC-sq.png",
+    "objectUrl": "/learn/tensorflow-beginner-basic-image-classification",
+    "objectID": "course~t2Gp3snCEemHiQqglUGzsg",
+    "_snippetResult": {
+      "description": {
+        "value": "In this 2-hour long project-based course, you will learn the basics of using Keras with TensorFlow as its",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Project: Basic Image Classification with TensorFlow",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 48,
+    "tagline": "Offered by National Research University Higher School of Economics",
+    "name": "How to Win a Data Science Competition: Learn from Top Kagglers",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 49793,
+    "partners": [
+      "National Research University Higher School of Economics"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 730,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 4.727397260273973,
+    "skills": [
+      "Feature Engineering",
+      "Stack (Abstract Data Type)",
+      "Kaggle",
+      "Data Science"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/90/7df840ad9011e788128bc3971f6593/How-to-win-a-Kaggle-competition2.png",
+    "objectUrl": "/learn/competitive-data-science",
+    "objectID": "course~Mz1ninIDEeeWCg71xNIlJg",
+    "_snippetResult": {
+      "description": {
+        "value": "as credit, insurance, marketing, natural language processing, sales’ forecasting and <mark>computer</mark> <mark>vision</mark> to name a few. At the same time",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "How to Win a Data Science Competition: Learn from Top Kagglers",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 4,
+    "tagline": "Offered by Intel",
+    "name": "Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/49/f63a9059ed48c7b2e63e806a759b50/intel_rgb_3000.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 205,
+    "partners": [
+      "Intel"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 2,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 5,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/76/66897150f04562ab687ce6f0230d9b/adobestock-244850128.jpg",
+    "objectUrl": "/learn/intel-openvino",
+    "objectID": "course~bSqR_L0VEemBaw6-E5UefA",
+    "_snippetResult": {
+      "description": {
+        "value": "Welcome to the Introduction to Intel® Distribution of OpenVINO™ toolkit for <mark>Computer</mark> <mark>Vision</mark> Applications course!\\n\\nThis course provides",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to Intel® Distribution of OpenVINO™ toolkit for <mark>Computer</mark> <mark>Vision</mark> Applications",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "computer",
+          "vision"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 8,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Convolutional Neural Networks in TensorFlow",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 28051,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1886,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.714209968186639,
+    "skills": [
+      "Convolutional Neural Network",
+      "Convolution",
+      "Statistical Classification",
+      "Artificial Neural Network",
+      "Multiclass Classification",
+      "Image Processing",
+      "Inductive Transfer"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/1e/b9a22461864399a689eb74c7ae1fc6/TFC2SquareLogo.png",
+    "objectUrl": "/learn/convolutional-neural-networks-tensorflow",
+    "objectID": "course~5mAuak8zEemKoQ4qeYq26g",
+    "_snippetResult": {
+      "description": {
+        "value": "TensorFlow Specialization, you will learn advanced techniques to improve the <mark>computer</mark> <mark>vision</mark> model you built in Course 1. You will",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Convolutional Neural Networks in TensorFlow",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 13,
+    "tagline": "Offered by University at Buffalo, and The State University of New York",
+    "name": "Stereo Vision, Dense Motion & Tracking",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ab/af2a00e2fd11e6afdccf8b30f1d74c/UB-Logo-BlueSquare.png",
+      "https://coursera-university-assets.s3.amazonaws.com/a3/b2acc03495de7a92aa23a6f029922a/SUNY-logo_blue.jpg.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 1996,
+    "partners": [
+      "University at Buffalo",
+      "The State University of New York"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 16,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 1.375,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/a3/4ab090262411e9afa9a75f8f9686fd/course3_logo_new.png",
+    "objectUrl": "/learn/stereovision-motion-tracking",
+    "objectID": "course~FArKHe_AEeeCjgp4IdClkg",
+    "_snippetResult": {
+      "description": {
+        "value": "anyone curious about or interested in exploring the concepts of <mark>computer</mark> <mark>vision</mark>. It is also useful for those who desire",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Stereo <mark>Vision</mark>, Dense Motion & Tracking",
+        "matchLevel": "partial",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "vision"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 23,
+    "tagline": "Offered by National Research University Higher School of Economics, and University of California San Diego",
+    "name": "Advanced Algorithms and Complexity",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png",
+      "https://coursera-university-assets.s3.amazonaws.com/4b/a551cb6e1307836a21059a79e7ae70/UCSanDiego-Coursera-square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 33773,
+    "partners": [
+      "National Research University Higher School of Economics",
+      "University of California San Diego"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 358,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.564245810055866,
+    "skills": [
+      "Computer Programming",
+      "Np-Completeness",
+      "Algorithms",
+      "Linearity"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/0f/6df730d9ae11e5bd22cb7d7d7686df/logo3.png",
+    "objectUrl": "/learn/advanced-algorithms-and-complexity",
+    "objectID": "course~w7FFV3l0EeW53BJEfL52qQ",
+    "_snippetResult": {
+      "description": {
+        "value": "as well as more surprising ones like image segmentation in <mark>computer</mark> <mark>vision</mark>. We then proceed to linear programming with applications",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Advanced Algorithms and Complexity",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 8,
+    "tagline": "Offered by University at Buffalo, and The State University of New York",
+    "name": "Visual Recognition & Understanding",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ab/af2a00e2fd11e6afdccf8b30f1d74c/UB-Logo-BlueSquare.png",
+      "https://coursera-university-assets.s3.amazonaws.com/a3/b2acc03495de7a92aa23a6f029922a/SUNY-logo_blue.jpg.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 1420,
+    "partners": [
+      "University at Buffalo",
+      "The State University of New York"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 16,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 2.5625,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/3e/1e7680f8ab11e89bb9094665a652af/Course-4-logo.jpg",
+    "objectUrl": "/learn/visual-recognition",
+    "objectID": "course~MO_yHe_AEeeHoxJth9oXxA",
+    "_snippetResult": {
+      "description": {
+        "value": "immerses learners in deep learning, preparing them to solve <mark>computer</mark> <mark>vision</mark> problems. Learners plunge into the field of <mark>computer</mark> <mark>vision</mark>",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Visual Recognition & Understanding",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 35,
+    "tagline": "Offered by National Research University Higher School of Economics",
+    "name": "Introduction to Deep Learning",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 53410,
+    "partners": [
+      "National Research University Higher School of Economics"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1186,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 4.609612141652614,
+    "skills": [
+      "Deep Learning",
+      "Artificial Neural Network",
+      "Recurrent Neural Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/30/4d89508f2111e7be561d79af9860d8/Introduction-to-deep-learning2.png",
+    "objectUrl": "/learn/intro-to-deep-learning",
+    "objectID": "course~pNXe13ICEeeBKg4MjLYj6A",
+    "_snippetResult": {
+      "description": {
+        "value": "basic understanding of modern neural networks and their applications in <mark>computer</mark> <mark>vision</mark> and natural language understanding. The course starts with",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to Deep Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 31,
+    "tagline": "Offered by University of Washington",
+    "name": "Computational Neuroscience",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/8c/ff2f50afdf11e5ae9d8158e68cbd96/UW_square_180x180.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 59176,
+    "partners": [
+      "University of Washington"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 584,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.662671232876712,
+    "skills": [
+      "Neuron (Software)",
+      "Neuroscience",
+      "Learning",
+      "Computation",
+      "Computational Neuroscience",
+      "Reinforcement",
+      "Biological Neuron Model"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera/topics/compneuro/large-icon.png",
+    "objectUrl": "/learn/computational-neuroscience",
+    "objectID": "course~0w0JAG9JEeSp0iIAC12Jpw",
+    "_snippetResult": {
+      "description": {
+        "value": "We will explore the computational principles governing various aspects of <mark>vision</mark>, sensory-motor control, learning, and memory. Specific topics that",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Computational Neuroscience",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Neural Networks and Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Ukrainian",
+      "French",
+      "Portuguese (Brazil)",
+      "Japanese",
+      "Arabic",
+      "Korean",
+      "Chinese (China)",
+      "Spanish",
+      "Turkish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 470280,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 64198,
+    "allLanguageCodes": [
+      "tr",
+      "zh",
+      "en",
+      "uk",
+      "fr",
+      "es",
+      "ko",
+      "pt",
+      "ar",
+      "ja"
+    ],
+    "avgProductRating": 4.892115019159475,
+    "skills": [
+      "Deep Learning",
+      "Artificial Neural Network",
+      "Backpropagation"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b0/279370104d11e8822ac99a970c5b43/CarouselAds_DL_Neural.png",
+    "objectUrl": "/learn/neural-networks-deep-learning",
+    "objectID": "course~W_mOXCrdEeeNPQ68_4aPpA",
+    "_snippetResult": {
+      "description": {
+        "value": "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Neural Networks and Deep Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  }
+]

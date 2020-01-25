@@ -1,0 +1,218 @@
+{
+  "pageUrl": "https://search.bilibili.com/video?keyword=机器学习",
+  "courses": [
+    {
+      "aid": "9912938"
+    },
+    {
+      "aid": "46180067"
+    },
+    {
+      "aid": "37947862"
+    },
+    {
+      "aid": "10590361"
+    },
+    {
+      "aid": "41541089"
+    },
+    {
+      "aid": "51195668"
+    },
+    {
+      "aid": "77638697"
+    },
+    {
+      "aid": "81346273"
+    },
+    {
+      "aid": "16009484"
+    },
+    {
+      "aid": "63559648"
+    },
+    {
+      "aid": "78222236"
+    },
+    {
+      "aid": "78067131"
+    },
+    {
+      "aid": "33599042"
+    },
+    {
+      "aid": "57456749"
+    },
+    {
+      "aid": "70839977"
+    },
+    {
+      "aid": "48982739"
+    },
+    {
+      "aid": "36993857"
+    },
+    {
+      "aid": "77485234"
+    },
+    {
+      "aid": "59800830"
+    },
+    {
+      "aid": "75756953"
+    }
+  ],
+  "video-detail-0": {
+    "pageUrl": "https://www.bilibili.com/video/av9912938?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "机器学习（Machine Learning）- 吴恩达（Andrew Ng）",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "机器学习",
+        "Andrew Ng",
+        "吴恩达",
+        "Machine Learning",
+        "公开课",
+        "Deep Learning",
+        "斯坦福大学"
+      ]
+    }
+  },
+  "video-detail-2": {
+    "pageUrl": "https://www.bilibili.com/video/av37947862?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "机器学习算法基础-覃秉丰",
+      "collect": "--",
+      "tags": [
+        "自学",
+        "贝叶斯算法，聚类算法，主成分分析PCA",
+        "学习",
+        "计算机",
+        "神经网络",
+        "人工智能",
+        "机器人",
+        "编程",
+        "python",
+        "线性回归以及非线性回归",
+        "逻辑回归，KNN算法，决策树，集成学习",
+        "支持向量SVM"
+      ]
+    }
+  },
+  "video-detail-4": {
+    "pageUrl": "https://www.bilibili.com/video/av41541089?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "(上海交通大学张志华)机器学习导论",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "研究生",
+        "计算机",
+        "学习",
+        "上海交通大学",
+        "课程",
+        "教学视频",
+        "教程",
+        "机器学习",
+        "学习心得",
+        "张志华"
+      ]
+    }
+  },
+  "video-detail-6": {
+    "pageUrl": "https://www.bilibili.com/video/av77638697?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "浙江大学-研究生机器学习课程-",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "我的学习日记",
+        "视频教程",
+        "人工智能",
+        "公开课",
+        "机器学习",
+        "线上课堂"
+      ]
+    }
+  },
+  "video-detail-8": {
+    "pageUrl": "https://www.bilibili.com/video/av16009484?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "什么是机器学习? What is machine learning?",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "神经网络",
+        "教学",
+        "程序",
+        "教程",
+        "机器学习",
+        "python"
+      ]
+    }
+  },
+  "video-detail-10": {
+    "pageUrl": "https://www.bilibili.com/video/av78222236?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "2019最新机器学习入门实战教程（完整版）",
+      "collect": "--",
+      "tags": [
+        "人工智能",
+        "公开课"
+      ]
+    }
+  },
+  "video-detail-12": {
+    "pageUrl": "https://www.bilibili.com/video/av33599042?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "机器学习实战项目",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "神经网络",
+        "推荐系统",
+        "机器学习",
+        "机器翻译",
+        "文本分类",
+        "天池大赛"
+      ]
+    }
+  },
+  "video-detail-14": {
+    "pageUrl": "https://www.bilibili.com/video/av70839977?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "机器学习-白板推导系列-合集",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "AI",
+        "人工智能",
+        "视频教程",
+        "公开课",
+        "白板推导系列",
+        "机器学习",
+        "Machine Learning"
+      ]
+    }
+  },
+  "video-detail-16": {
+    "pageUrl": "https://www.bilibili.com/video/av36993857?from=search&seid=1711907619104262267",
+    "detail": {
+      "title": "【机器学习实战】【python3版本】【代码讲解】",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "AI",
+        "人工智能",
+        "机器学习",
+        "python",
+        "python3",
+        "BP神经网络",
+        "机器学习实战",
+        "代码讲解",
+        "KNN SVM 决策树 等"
+      ]
+    }
+  }
+}

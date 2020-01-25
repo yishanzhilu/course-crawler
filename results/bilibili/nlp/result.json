@@ -1,0 +1,209 @@
+{
+  "pageUrl": "https://search.bilibili.com/video?keyword=自然语言处理",
+  "courses": [
+    {
+      "aid": "41393758"
+    },
+    {
+      "aid": "76897274"
+    },
+    {
+      "aid": "27193854"
+    },
+    {
+      "aid": "46707588"
+    },
+    {
+      "aid": "11442754"
+    },
+    {
+      "aid": "76646500"
+    },
+    {
+      "aid": "54025997"
+    },
+    {
+      "aid": "76469740"
+    },
+    {
+      "aid": "38305254"
+    },
+    {
+      "aid": "76791626"
+    },
+    {
+      "aid": "48841633"
+    },
+    {
+      "aid": "73961803"
+    },
+    {
+      "aid": "55986202"
+    },
+    {
+      "aid": "41197074"
+    },
+    {
+      "aid": "70274286"
+    },
+    {
+      "aid": "52626812"
+    },
+    {
+      "aid": "71446896"
+    },
+    {
+      "aid": "25036190"
+    },
+    {
+      "aid": "29373034"
+    },
+    {
+      "aid": "71518171"
+    }
+  ],
+  "video-detail-0": {
+    "pageUrl": "https://www.bilibili.com/video/av41393758?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "【官方】【中英】CS224n 斯坦福深度自然语言处理课 @雷锋字幕组",
+      "collect": "--",
+      "tags": [
+        "自然语言处理",
+        "斯坦福",
+        "CS224n",
+        "雷锋字幕组"
+      ]
+    }
+  },
+  "video-detail-2": {
+    "pageUrl": "https://www.bilibili.com/video/av27193854?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "NLP自然语言处理视频教程（经典版，附带相关文档资源）",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "NLP",
+        "自然语言处理",
+        "人工智能",
+        "学习",
+        "视频教程",
+        "编程",
+        "公开课",
+        "机器学习",
+        "Python学习"
+      ]
+    }
+  },
+  "video-detail-4": {
+    "pageUrl": "https://www.bilibili.com/video/av11442754?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "哈尔滨工业大学 自然语言处理 全65讲 主讲-关毅 视频教程",
+      "collect": "--",
+      "tags": [
+        "哈尔滨工业大学 自然语言处理 全65讲"
+      ]
+    }
+  },
+  "video-detail-6": {
+    "pageUrl": "https://www.bilibili.com/video/av54025997?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "自然语言处理实战",
+      "collect": "--",
+      "tags": [
+        "NLP",
+        "自然语言处理",
+        "命名实体",
+        "文本向量",
+        "深度学习",
+        "分词",
+        "无监督学习",
+        "文本分类",
+        "关键词提取",
+        "句法分析"
+      ]
+    }
+  },
+  "video-detail-8": {
+    "pageUrl": "https://www.bilibili.com/video/av38305254?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "自然语言处理入门第一步-动手学中文分词",
+      "collect": "--",
+      "tags": [
+        "学习",
+        "视频教程",
+        "教育",
+        "NLP",
+        "课程",
+        "公开课",
+        "自然语言处理",
+        "线上课堂",
+        "分词",
+        "中文分词"
+      ]
+    }
+  },
+  "video-detail-10": {
+    "pageUrl": "https://www.bilibili.com/video/av48841633?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "中科院 宗成庆 自然语言处理公开课（64集）",
+      "collect": "--",
+      "tags": [
+        "公开课",
+        "自然语言处理",
+        "nlp"
+      ]
+    }
+  },
+  "video-detail-12": {
+    "pageUrl": "https://www.bilibili.com/video/av55986202?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "2019年中国科学院大学（国科大）春季学期自然语言处理（宗成庆老师授课）",
+      "collect": "--",
+      "tags": [
+        "演讲",
+        "讲座",
+        "学习",
+        "科学",
+        "教育",
+        "大学",
+        "课程",
+        "人工智能",
+        "自然语言处理",
+        "中科院",
+        "线上课堂"
+      ]
+    }
+  },
+  "video-detail-14": {
+    "pageUrl": "https://www.bilibili.com/video/av70274286?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "自然语言处理算法精讲【完整版】",
+      "collect": "--",
+      "tags": [
+        "算法",
+        "人工智能",
+        "PYTHON",
+        "公开课"
+      ]
+    }
+  },
+  "video-detail-16": {
+    "pageUrl": "https://www.bilibili.com/video/av71446896?from=search&seid=2373004333914536655",
+    "detail": {
+      "title": "自然语言处理之AI深度学习顶级实战课程",
+      "collect": "--",
+      "tags": [
+        "学习",
+        "人工智能",
+        "AI",
+        "NLP",
+        "PYTHON",
+        "编程",
+        "深度学习",
+        "TENSORFLOW",
+        "DEEPLEARNING",
+        "MACHINELEARNING"
+      ]
+    }
+  }
+}

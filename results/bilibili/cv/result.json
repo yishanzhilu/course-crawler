@@ -1,0 +1,197 @@
+{
+  "pageUrl": "https://search.bilibili.com/video?keyword=图像识别",
+  "courses": [
+    {
+      "aid": "33208345"
+    },
+    {
+      "aid": "22610677"
+    },
+    {
+      "aid": "33444229"
+    },
+    {
+      "aid": "73304945"
+    },
+    {
+      "aid": "44925434"
+    },
+    {
+      "aid": "18738002"
+    },
+    {
+      "aid": "51325226"
+    },
+    {
+      "aid": "29470949"
+    },
+    {
+      "aid": "28666508"
+    },
+    {
+      "aid": "47714794"
+    },
+    {
+      "aid": "67850068"
+    },
+    {
+      "aid": "18066850"
+    },
+    {
+      "aid": "44940934"
+    },
+    {
+      "aid": "50046790"
+    },
+    {
+      "aid": "27523176"
+    },
+    {
+      "aid": "74069039"
+    },
+    {
+      "aid": "68195290"
+    },
+    {
+      "aid": "64515549"
+    },
+    {
+      "aid": "74166368"
+    },
+    {
+      "aid": "28456789"
+    }
+  ],
+  "video-detail-0": {
+    "pageUrl": "https://www.bilibili.com/video/av33208345?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "人工智能——机器视觉及图像识别",
+      "collect": "--",
+      "tags": [
+        "教育",
+        "趣味科普人文"
+      ]
+    }
+  },
+  "video-detail-2": {
+    "pageUrl": "https://www.bilibili.com/video/av33444229?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "【人工智能】OpenCV视频教程计算机视觉图像识别从基础到深度学习实战",
+      "collect": "--",
+      "tags": [
+        "课程",
+        "教育"
+      ]
+    }
+  },
+  "video-detail-4": {
+    "pageUrl": "https://www.bilibili.com/video/av44925434?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "基于tensorflow的图像识别（初级）（寒假）",
+      "collect": "--",
+      "tags": [
+        "AI",
+        "学习",
+        "视频教程",
+        "人工智能",
+        "演示",
+        "TENSORFLOW"
+      ]
+    }
+  },
+  "video-detail-6": {
+    "pageUrl": "https://www.bilibili.com/video/av51325226?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "程序员大牛教你如何用Python实现图像识别",
+      "collect": "--",
+      "tags": [
+        "程序员",
+        "编程语言",
+        "图像识别",
+        "Python",
+        "PYTHON编程",
+        "PYTHON教程",
+        "PYTHON爬虫"
+      ]
+    }
+  },
+  "video-detail-8": {
+    "pageUrl": "https://www.bilibili.com/video/av28666508?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "贾璐-基于深度学习的图像识别系统",
+      "collect": "--",
+      "tags": [
+        "教育",
+        "编程"
+      ]
+    }
+  },
+  "video-detail-10": {
+    "pageUrl": "https://www.bilibili.com/video/av67850068?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "【图像识别】你的手机也是机器人的大脑（三）",
+      "collect": "--",
+      "tags": [
+        "萌新UP报到",
+        "自制",
+        "科技",
+        "教学视频",
+        "视频教程",
+        "学习",
+        "教程",
+        "野生技术协会",
+        "经验分享",
+        "学习心得"
+      ]
+    }
+  },
+  "video-detail-12": {
+    "pageUrl": "https://www.bilibili.com/video/av44940934?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "python教程：python人工智能《图像识别技术》1",
+      "collect": "--",
+      "tags": [
+        "人工智能",
+        "AI",
+        "PYTHON",
+        "计算机",
+        "机器人",
+        "Python",
+        "Python基础",
+        "Python学习",
+        "Python入门学习",
+        "Python人工智能"
+      ]
+    }
+  },
+  "video-detail-14": {
+    "pageUrl": "https://www.bilibili.com/video/av27523176?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "【图像识别】看起来就像“天网”！谷歌TensorflowAPI实景测试",
+      "collect": "--",
+      "tags": [
+        "数码",
+        "黑科技",
+        "人工智能",
+        "AI",
+        "科技",
+        "天网",
+        "图像识别"
+      ]
+    }
+  },
+  "video-detail-16": {
+    "pageUrl": "https://www.bilibili.com/video/av68195290?from=search&seid=1978671128948007443",
+    "detail": {
+      "title": "图像识别",
+      "collect": "--",
+      "tags": [
+        "技术宅",
+        "视频教程",
+        "教学视频",
+        "制作过程",
+        "经验分享"
+      ]
+    }
+  }
+}

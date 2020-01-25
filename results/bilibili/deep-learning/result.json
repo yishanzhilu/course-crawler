@@ -1,0 +1,199 @@
+{
+  "pageUrl": "https://search.bilibili.com/video?keyword=深度学习",
+  "courses": [
+    {
+      "aid": "48285039"
+    },
+    {
+      "aid": "66314465"
+    },
+    {
+      "aid": "20542427"
+    },
+    {
+      "aid": "38229543"
+    },
+    {
+      "aid": "64149041"
+    },
+    {
+      "aid": "9770302"
+    },
+    {
+      "aid": "55200663"
+    },
+    {
+      "aid": "50327129"
+    },
+    {
+      "aid": "74140128"
+    },
+    {
+      "aid": "39049499"
+    },
+    {
+      "aid": "49445369"
+    },
+    {
+      "aid": "63523148"
+    },
+    {
+      "aid": "50600192"
+    },
+    {
+      "aid": "66646276"
+    },
+    {
+      "aid": "66647398"
+    },
+    {
+      "aid": "17741845"
+    },
+    {
+      "aid": "73241101"
+    },
+    {
+      "aid": "57062905"
+    },
+    {
+      "aid": "29905315"
+    },
+    {
+      "aid": "16543434"
+    }
+  ],
+  "video-detail-0": {
+    "pageUrl": "https://www.bilibili.com/video/av48285039?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "【李宏毅 深度学习19（完整版）国语】机器学习 深度学习",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "人工智能",
+        "AI",
+        "机器学习",
+        "李宏毅",
+        "深度学习",
+        "视频教程",
+        "教育",
+        "DEEPLEARNING"
+      ]
+    }
+  },
+  "video-detail-2": {
+    "pageUrl": "https://www.bilibili.com/video/av20542427?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "深度学习框架Tensorflow学习与应用",
+      "collect": "--",
+      "tags": [
+        "野生技术协会"
+      ]
+    }
+  },
+  "video-detail-4": {
+    "pageUrl": "https://www.bilibili.com/video/av64149041?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "深度学习（卷积网络、循环神经网络、对抗神经网络、Tensorflow实战）",
+      "collect": "--",
+      "tags": [
+        "深度学习",
+        "对抗神经网络",
+        "卷积网络",
+        "循环神经网络",
+        "Tensorflow实战"
+      ]
+    }
+  },
+  "video-detail-6": {
+    "pageUrl": "https://www.bilibili.com/video/av55200663?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "深度学习之分类与目标检测",
+      "collect": "--",
+      "tags": [
+        "目标检测",
+        "深度学习",
+        "图片分类"
+      ]
+    }
+  },
+  "video-detail-8": {
+    "pageUrl": "https://www.bilibili.com/video/av74140128?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "七日入门深度学习 Day 3 ——目标检测实战-YOLOv3检测物体",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "PYTHON",
+        "人工智能",
+        "教学视频",
+        "视频教程",
+        "速成课",
+        "编程",
+        "机器学习",
+        "深度学习"
+      ]
+    }
+  },
+  "video-detail-10": {
+    "pageUrl": "https://www.bilibili.com/video/av49445369?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "【全 中文字幕】深度学习_吴恩达_DeepLearning.ai",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "吴恩达",
+        "人工智能",
+        "机器学习",
+        "深度学习"
+      ]
+    }
+  },
+  "video-detail-12": {
+    "pageUrl": "https://www.bilibili.com/video/av50600192?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "深度学习与TensorFlow 2.0入门实战视频教程，通俗易懂，深入浅出",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "机器学习",
+        "深度学习",
+        "TensorFlow"
+      ]
+    }
+  },
+  "video-detail-14": {
+    "pageUrl": "https://www.bilibili.com/video/av66647398?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "【中英字幕】吴恩达深度学习课程第五课 — 序列模型",
+      "collect": "--",
+      "tags": [
+        "科学",
+        "教育",
+        "神经网络",
+        "课程",
+        "计算机",
+        "人工智能",
+        "AI",
+        "机器学习",
+        "深度学习",
+        "吴恩达",
+        "序列模型"
+      ]
+    }
+  },
+  "video-detail-16": {
+    "pageUrl": "https://www.bilibili.com/video/av73241101?from=search&seid=11326508216085560801",
+    "detail": {
+      "title": "【搞机UP祖】深度学习/建模渲染推荐主机配置，妈妈在也不用担心我渲染太久了！",
+      "collect": "--",
+      "tags": [
+        "数码",
+        "建模",
+        "渲染",
+        "组装电脑",
+        "台式机",
+        "深度学习"
+      ]
+    }
+  }
+}

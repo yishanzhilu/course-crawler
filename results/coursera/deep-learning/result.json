@@ -1,0 +1,1000 @@
+[
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Neural Networks and Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Ukrainian",
+      "French",
+      "Portuguese (Brazil)",
+      "Japanese",
+      "Arabic",
+      "Korean",
+      "Chinese (China)",
+      "Spanish",
+      "Turkish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 470280,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 64198,
+    "allLanguageCodes": [
+      "tr",
+      "zh",
+      "en",
+      "uk",
+      "fr",
+      "es",
+      "ko",
+      "pt",
+      "ar",
+      "ja"
+    ],
+    "avgProductRating": 4.892115019159475,
+    "skills": [
+      "Deep Learning",
+      "Artificial Neural Network",
+      "Backpropagation"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b0/279370104d11e8822ac99a970c5b43/CarouselAds_DL_Neural.png",
+    "objectUrl": "/learn/neural-networks-deep-learning",
+    "objectID": "course~W_mOXCrdEeeNPQ68_4aPpA",
+    "_snippetResult": {
+      "description": {
+        "value": "<mark>Deep learning</mark> engineers are highly sought after, and mastering <mark>deep learning</mark> will give you numerous new career opportunities. <mark>Deep learning</mark>",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Neural Networks and <mark>Deep Learning</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Russian",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 100155,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 4498,
+    "allLanguageCodes": [
+      "en",
+      "es",
+      "ru"
+    ],
+    "avgProductRating": 4.690306803023566,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png",
+    "objectUrl": "/learn/introduction-tensorflow",
+    "objectID": "course~YpwHVDb5EemE7gr4SGSAsA",
+    "_snippetResult": {
+      "description": {
+        "value": "for using TensorFlow, a popular open-source framework for machine <mark>learning</mark>. \\n\\nThe Machine <mark>Learning</mark> course and <mark>Deep Learning</mark> Specialization",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to TensorFlow for Artificial Intelligence, Machine <mark>Learning</mark>, and <mark>Deep Learning</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 35,
+    "tagline": "Offered by National Research University Higher School of Economics",
+    "name": "Introduction to Deep Learning",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 53410,
+    "partners": [
+      "National Research University Higher School of Economics"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1186,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 4.609612141652614,
+    "skills": [
+      "Deep Learning",
+      "Artificial Neural Network",
+      "Recurrent Neural Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/30/4d89508f2111e7be561d79af9860d8/Introduction-to-deep-learning2.png",
+    "objectUrl": "/learn/intro-to-deep-learning",
+    "objectID": "course~pNXe13ICEeeBKg4MjLYj6A",
+    "_snippetResult": {
+      "description": {
+        "value": "discussion of stochastic optimization methods that are crucial for training <mark>deep</mark> neural networks. Learners will study all popular building blocks",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to <mark>Deep</mark> <mark>Learning</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 12,
+    "tagline": "Offered by Intel",
+    "name": "An Introduction to Practical Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/49/f63a9059ed48c7b2e63e806a759b50/intel_rgb_3000.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 9864,
+    "partners": [
+      "Intel"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 67,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.328358208955224,
+    "skills": [
+      "Deep Learning",
+      "Artificial Neural Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/72/b3a54097ff11e79acebb98a73e7be6/intel_software_blue.jpg",
+    "objectUrl": "/learn/intro-practical-deep-learning",
+    "objectID": "course~a3Q1g0YtEeeJdBL3H0RODg",
+    "_snippetResult": {
+      "description": {
+        "value": "n\\nYou will explore important concepts in <mark>Deep</mark> <mark>Learning</mark>, train <mark>deep</mark> networks using Intel Nervana Neon, apply <mark>Deep</mark> <mark>Learning</mark> to",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "An Introduction to Practical <mark>Deep</mark> <mark>Learning</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by IBM",
+    "name": "Applied AI with DeepLearning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 28782,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 565,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.458407079646018,
+    "skills": [
+      "Keras",
+      "Deep Learning",
+      "Scalability",
+      "Deeplearning4j"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/59/4408d08be611e8ae9f27056f38fbe9/Applied_AI_with_Deep_Learning.png",
+    "objectUrl": "/learn/ai",
+    "objectID": "course~tE4j0qhMEeecqgpT6QjMdA",
+    "_snippetResult": {
+      "description": {
+        "value": "and gives you easy access to the invaluable insights into <mark>Deep Learning</mark> models used by experts in Natural Language Processing",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Applied AI with <mark>DeepLearning</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 15,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Korean",
+      "Spanish",
+      "Chinese (China)",
+      "Turkish"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 215307,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 40333,
+    "allLanguageCodes": [
+      "en",
+      "tr",
+      "zh",
+      "es",
+      "ko"
+    ],
+    "avgProductRating": 4.878089901569434,
+    "skills": [
+      "Hyperparameter",
+      "Mathematical Optimization",
+      "Tensorflow",
+      "Hyperparameter Optimization"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/13/668720104e11e8a36507b34cf4fa75/CarouselAds_DL_Tuning.png",
+    "objectUrl": "/learn/deep-neural-network",
+    "objectID": "course~BZ5quSvBEee6gA5XksfBbg",
+    "_snippetResult": {
+      "description": {
+        "value": "This course will teach you the \"magic\" of getting <mark>deep learning</mark> to work well. Rather than the <mark>deep learning</mark> process",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Improving <mark>Deep</mark> Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+        "matchLevel": "partial",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 23,
+    "tagline": "Offered by National Research University Higher School of Economics",
+    "name": "Deep Learning in Computer Vision",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 24161,
+    "partners": [
+      "National Research University Higher School of Economics"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 173,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 3.774566473988439,
+    "skills": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/de/8a87108f2211e7b04e29ba33dce228/Deep-learning-for-computer-vision2.png",
+    "objectUrl": "/learn/deep-learning-in-computer-vision",
+    "objectID": "course~bkBQ-oNfEeenGxKEO5UIKA",
+    "_snippetResult": {
+      "description": {
+        "value": "<mark>Deep</mark> <mark>learning</mark> added a huge boost to the already rapidly developing field of computer vision. With <mark>deep</mark> <mark>learning</mark>, a lot",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Deep</mark> <mark>Learning</mark> in Computer Vision",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 10,
+    "tagline": "Offered by IBM",
+    "name": "Introduction to Deep Learning & Neural Networks with Keras",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 2169,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 80,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.6125,
+    "skills": [
+      "Artificial Neural Network",
+      "Keras"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/25/015d50594c4e74b6e2099114a37905/Brain-under-layers-of-circuit-boards.jpg",
+    "objectUrl": "/learn/introduction-to-deep-learning-with-keras",
+    "objectID": "course~fJCXLJkeEeml5wpuotDEDA",
+    "_snippetResult": {
+      "description": {
+        "value": "many questions that people are asking nowadays, like what is <mark>deep</mark> <mark>learning</mark>, and how do <mark>deep</mark> <mark>learning</mark> models compare to",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to <mark>Deep</mark> <mark>Learning</mark> & Neural Networks with Keras",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 7,
+    "tagline": "Offered by IBM",
+    "name": "Building Deep Learning Models with TensorFlow",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 826,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 16,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.1875,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/d8/430999039e4043bde15d7777227a08/Production-Level-Deep-Learning-with-Tensorflow.jpg",
+    "objectUrl": "/learn/building-deep-learning-models-with-tensorflow",
+    "objectID": "course~7wwl6pkeEem0LBK6SkJ7yA",
+    "_snippetResult": {
+      "description": {
+        "value": "In this course you’ll use TensorFlow library to apply <mark>deep</mark> <mark>learning</mark> to different data types in order to solve",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Building <mark>Deep</mark> <mark>Learning</mark> Models with TensorFlow",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 8,
+    "tagline": "Offered by Yonsei University",
+    "name": "Deep Learning for Business",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/79/ef4a80c5a111e5a5ce35080560fd45/coursera_logo.png"
+    ],
+    "subtitleLanguage": [
+      "Romanian",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 14902,
+    "partners": [
+      "Yonsei University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 341,
+    "allLanguageCodes": [
+      "en",
+      "ro",
+      "es"
+    ],
+    "avgProductRating": 4.33724340175953,
+    "skills": [
+      "Deep Learning",
+      "Use Case",
+      "Artificial Intelligence"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/cb/1cc110653911e7b20e776f9e77a64f/jmc_thum_DeepLearning.jpg",
+    "objectUrl": "/learn/deep-learning-business",
+    "objectID": "course~oWe5cmU5EeeGgwo-Z1z46A",
+    "_snippetResult": {
+      "description": {
+        "value": "you every day. In the near future, more advanced “self-<mark>learning</mark>” capable DL (<mark>Deep</mark> <mark>Learning</mark>) and ML (Machine <mark>Learning</mark>) technology",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Deep</mark> <mark>Learning</mark> for Business",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "deep",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 7,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Structuring Machine Learning Projects",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Chinese (China)",
+      "Spanish",
+      "Korean",
+      "Turkish"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 172712,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 33123,
+    "allLanguageCodes": [
+      "en",
+      "tr",
+      "zh",
+      "es",
+      "ko"
+    ],
+    "avgProductRating": 4.779216858376355,
+    "skills": [
+      "Approximation Error",
+      "Type I And Type Ii Errors",
+      "Deep Learning",
+      "Finger Protocol"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/f6/53bf90104d11e8b2d89d7efe59d41d/CarouselAds_DL_ML.png",
+    "objectUrl": "/learn/machine-learning-projects",
+    "objectID": "course~-7ZymCvBEee6gA5XksfBbg",
+    "_snippetResult": {
+      "description": {
+        "value": "this so long as you have basic machine <mark>learning</mark> knowledge. This is the third course in the <mark>Deep Learning</mark> Specialization.",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Structuring Machine <mark>Learning</mark> Projects",
+        "matchLevel": "partial",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Sequence Models",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Korean",
+      "Spanish",
+      "Chinese (China)"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 151662,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 17896,
+    "allLanguageCodes": [
+      "en",
+      "zh",
+      "es",
+      "ko"
+    ],
+    "avgProductRating": 4.798111309789897,
+    "skills": [
+      "Artificial Neural Network",
+      "P′′",
+      "Recurrent Neural Network",
+      "Omega Language",
+      "Long Short-Term Memory",
+      "Deep Learning",
+      "Word Embedding",
+      "Speech Recognition"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/38/1d2dd0104e11e8a9fde55ba46c309d/CarouselAds_DL_Sequence.png",
+    "objectUrl": "/learn/nlp-sequence-models",
+    "objectID": "course~25Fh8ivBEee6gA5XksfBbg",
+    "_snippetResult": {
+      "description": {
+        "value": "with <mark>deep learning</mark>. You will have the opportunity to build a <mark>deep learning</mark> project with cutting-edge, industry-relevant content.",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Sequence Models",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "AI For Everyone",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Arabic",
+      "Chinese (Traditional)",
+      "Thai",
+      "Spanish",
+      "Chinese (China)"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 193605,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 7024,
+    "allLanguageCodes": [
+      "th",
+      "en",
+      "zh",
+      "es",
+      "ar"
+    ],
+    "avgProductRating": 4.846383826879271,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b2/65f2d3143d48b29c346332efac1118/AI4ESquareLogo.png",
+    "objectUrl": "/learn/ai-for-everyone",
+    "objectID": "course~daG-a-O1EeijKBISCWxf6g",
+    "_snippetResult": {
+      "description": {
+        "value": "The meaning behind common AI terminology, including neural networks, machine <mark>learning</mark>, <mark>deep learning</mark>, and data science\\n- What AI realistically",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "AI For Everyone",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 8,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Sequences, Time Series and Prediction",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 13808,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 827,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.62515114873035,
+    "skills": [
+      "Time Series Analysis",
+      "Forecasting",
+      "Long Short-Term Memory",
+      "Environment Variable",
+      "Time Series"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/7e/075c1fda9d419b8d763b1b988d36ba/TFC4SquareLogo.png",
+    "objectUrl": "/learn/tensorflow-sequences-time-series-and-prediction",
+    "objectID": "course~0A7WBYfuEemoiA62n0CmxA",
+    "_snippetResult": {
+      "description": {
+        "value": "Ng teach the most important and foundational principles of Machine <mark>Learning</mark> and <mark>Deep Learning</mark>. This new <mark>deeplearning</mark>.ai TensorFlow Specialization",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Sequences, Time Series and Prediction",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by IBM",
+    "name": "Introduction to Artificial Intelligence (AI)",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 16989,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1142,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.743432574430823,
+    "skills": [
+      "Weak Ai",
+      "Integration Testing",
+      "Unsupervised Learning",
+      "Artificial Intelligence"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/f7/9812f978144ce8ac721727bc516cb0/Intro-to-AI-Naimo.jpg",
+    "objectUrl": "/learn/introduction-to-ai",
+    "objectID": "course~mR7MlUaTEemuHQ4HpHozrA",
+    "_snippetResult": {
+      "description": {
+        "value": "applications of AI, understand AI concepts and terms like machine <mark>learning</mark>, <mark>deep</mark> <mark>learning</mark> and neural networks. You will be exposed",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to Artificial Intelligence (AI)",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 8,
+    "tagline": "Offered by IBM",
+    "name": "Getting Started with AI using IBM Watson",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 4437,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 533,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.49718574108818,
+    "skills": [
+      "Artificial Intelligence",
+      "Watson (Computer)"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/29/07ae5499f74eee87afacb368314936/WatsonAI-Avatar.jpg",
+    "objectUrl": "/learn/ai-with-ibm-watson",
+    "objectID": "course~GdR9t4MnEem1fhKdUV_ohA",
+    "_snippetResult": {
+      "description": {
+        "value": "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Getting Started with AI using IBM Watson",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 8,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Convolutional Neural Networks in TensorFlow",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 28051,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1886,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.714209968186639,
+    "skills": [
+      "Convolutional Neural Network",
+      "Convolution",
+      "Statistical Classification",
+      "Artificial Neural Network",
+      "Multiclass Classification",
+      "Image Processing",
+      "Inductive Transfer"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/1e/b9a22461864399a689eb74c7ae1fc6/TFC2SquareLogo.png",
+    "objectUrl": "/learn/convolutional-neural-networks-tensorflow",
+    "objectID": "course~5mAuak8zEemKoQ4qeYq26g",
+    "_snippetResult": {
+      "description": {
+        "value": "Ng teach the most important and foundational principles of Machine <mark>Learning</mark> and <mark>Deep Learning</mark>. This new <mark>deeplearning</mark>.ai TensorFlow Specialization",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Convolutional Neural Networks in TensorFlow",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Natural Language Processing in TensorFlow",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 18505,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1302,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.619047619047619,
+    "skills": [
+      "Code Segment",
+      "Omega Language",
+      "P′′",
+      "Natural Language Processing",
+      "Natural Language Generation",
+      "Natural Language"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/9b/d0102c0053480d9e2e9001c8f0e645/TFC3SquareLogo.png",
+    "objectUrl": "/learn/natural-language-processing-tensorflow",
+    "objectID": "course~eWdF_oGHEemfwRIsGCa-_A",
+    "_snippetResult": {
+      "description": {
+        "value": "Ng teach the most important and foundational principles of Machine <mark>Learning</mark> and <mark>Deep Learning</mark>. This new <mark>deep</mark>learning.ai TensorFlow Specialization",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Natural Language Processing in TensorFlow",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 16,
+    "tagline": "Offered by New York University Tandon School of Engineering",
+    "name": "Overview of Advanced Methods of Reinforcement Learning in Finance",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/f4/182700bb5411e7842119c980fccf54/NYULogo_180x180.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 4878,
+    "partners": [
+      "New York University Tandon School of Engineering"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 45,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 3.6,
+    "skills": [
+      "Reinforcement Learning"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/04/8e1ab0bc1f11e8a7e4450c556d93c7/Overview-Advanced-Methods-Reinforcement-Learning-Finance.png",
+    "objectUrl": "/learn/advanced-methods-reinforcement-learning-finance",
+    "objectID": "course~_9izvfVQEee0uQ7YmQ7_mg",
+    "_snippetResult": {
+      "description": {
+        "value": "course of our specialization, Overview of Advanced Methods of Reinforcement <mark>Learning</mark> in Finance, we will take a <mark>deep</mark>er look into",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Overview of Advanced Methods of Reinforcement <mark>Learning</mark> in Finance",
+        "matchLevel": "partial",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 56,
+    "tagline": "Offered by Stanford University",
+    "name": "Machine Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png"
+    ],
+    "subtitleLanguage": [
+      "Hebrew",
+      "Japanese",
+      "Hindi",
+      "Chinese (China)",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 2655317,
+    "partners": [
+      "Stanford University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 120193,
+    "allLanguageCodes": [
+      "he",
+      "en",
+      "es",
+      "zh",
+      "ja",
+      "hi"
+    ],
+    "avgProductRating": 4.916717279708469,
+    "skills": [
+      "Artificial Neural Network",
+      "Support Vector Machine",
+      "Gnu Octave",
+      "Machine Learning Algorithms",
+      "Machine Learning",
+      "Logistic Regression",
+      "Linearity",
+      "Algorithms"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera/topics/ml/large-icon.png",
+    "objectUrl": "/learn/machine-learning",
+    "objectID": "course~Gtv4Xb1-EeS-ViIACwYKVQ",
+    "_snippetResult": {
+      "description": {
+        "value": "neural networks). (ii) Unsupervised <mark>learning</mark> (clustering, dimensionality reduction, recommender systems, <mark>deep</mark> <mark>learning</mark>). (iii) Best practices in machine <mark>learning</mark> (bias/variance",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Machine <mark>Learning</mark>",
+        "matchLevel": "partial",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "learning"
+        ]
+      }
+    }
+  }
+]

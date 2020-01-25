@@ -1,0 +1,532 @@
+[
+  {
+    "avgLearningHours": 56,
+    "tagline": "Offered by Stanford University",
+    "name": "Machine Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png"
+    ],
+    "subtitleLanguage": [
+      "Japanese",
+      "Hebrew",
+      "Hindi",
+      "Chinese (China)",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 2714757,
+    "partners": [
+      "Stanford University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 123089,
+    "allLanguageCodes": [
+      "he",
+      "en",
+      "ja",
+      "zh",
+      "es",
+      "hi"
+    ],
+    "avgProductRating": 4.916556312911796,
+    "skills": [
+      "Algorithms",
+      "Machine Learning Algorithms",
+      "Linearity",
+      "Artificial Neural Network",
+      "Gnu Octave",
+      "Machine Learning",
+      "Support Vector Machine",
+      "Logistic Regression"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera/topics/ml/large-icon.png",
+    "objectUrl": "/learn/machine-learning",
+    "objectID": "course~Gtv4Xb1-EeS-ViIACwYKVQ",
+    "_snippetResult": {
+      "description": {
+        "value": "dimensionality reduction, recommender systems, deep <ais-highlight-0000000000>learning</ais-highlight-0000000000>). (iii) Best practices in <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000> (bias/variance theory; innovation process in <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000>",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000>",
+        "matchLevel": "full",
+        "fullyHighlighted": true,
+        "matchedWords": [
+          "machine",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 17,
+    "tagline": "Offered by IBM",
+    "name": "Machine Learning with Python",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 69560,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 5067,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.692520228932307,
+    "skills": [
+      "Statistical Classification",
+      "Classification Algorithms",
+      "Machine Learning Algorithms",
+      "Algorithms",
+      "Machine Learning",
+      "Logistic Regression"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/24/48deb0730b11e88827bdf46c9d13ee/Machine-Learning-with-Python_icon.png",
+    "objectUrl": "/learn/machine-learning-with-python",
+    "objectID": "course~8UjeMk-mEeit4g4GsxE4dg",
+    "_snippetResult": {
+      "description": {
+        "value": "overview of <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> topics such as supervised vs unsupervised <ais-highlight-0000000000>learning</ais-highlight-0000000000>,  model evaluation, and <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> algorithms. \\n\\nIn this",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> with Python",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "machine",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Spanish",
+      "Russian"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 105596,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 4961,
+    "allLanguageCodes": [
+      "en",
+      "es",
+      "ru"
+    ],
+    "avgProductRating": 4.696029026405966,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png",
+    "objectUrl": "/learn/introduction-tensorflow",
+    "objectID": "course~YpwHVDb5EemE7gr4SGSAsA",
+    "_snippetResult": {
+      "description": {
+        "value": "practices for using TensorFlow, a popular open-source framework for <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000>. \\n\\nThe <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> course and Deep <ais-highlight-0000000000>Learning</ais-highlight-0000000000>",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to TensorFlow for Artificial Intelligence, <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000>, and Deep <ais-highlight-0000000000>Learning</ais-highlight-0000000000>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "machine",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 10,
+    "tagline": "Offered by University of London",
+    "name": "Machine Learning for All",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/fb/b28a301e0211e8a40e23e4176c8e4a/UoL-Logo_180x180.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 1108,
+    "partners": [
+      "University of London"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 8,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.625,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b5/8cd52cec40414c86470014b8042ecf/3657_UoL_Online-BSc-Computer-Science-Programme_MOOC-Icons_How-Comps-Work_05.jpg",
+    "objectUrl": "/learn/uol-machine-learning-for-all",
+    "objectID": "course~ulNCUKIsEemvjBKUOppBiA",
+    "_snippetResult": {
+      "description": {
+        "value": "<ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000>, often called Artificial Intelligence or AI, is one of the most exciting areas of technology at the moment",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> for All",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "machine",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 22,
+    "tagline": "Offered by Imperial College London",
+    "name": "Mathematics for Machine Learning: Linear Algebra",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/b1/f66aa00aa811e8b14d27d7114bc00b/ImperialCollegeLondon_BLUE_500x500px.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 101813,
+    "partners": [
+      "Imperial College London"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 4494,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.675789942145082,
+    "skills": [
+      "Sigma-Algebra",
+      "Basis (Linear Algebra)",
+      "Linearity",
+      "Matrices",
+      "Algebra",
+      "Pagerank",
+      "Linear Algebra"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/2f/0dc8c0f1fa11e7998daf3442598f30/BLUE-Square-800x800-03.jpg.jpg",
+    "objectUrl": "/learn/linear-algebra-machine-learning",
+    "objectID": "course~ARf5_jvZEeeYEBLbuVGJ2g",
+    "_snippetResult": {
+      "description": {
+        "value": "that will help you bridge the gap into linear algebra problems, and how to apply these concepts to <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000>.",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Mathematics for <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000>: Linear Algebra",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "machine",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "AI For Everyone",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Japanese",
+      "Chinese (Traditional)",
+      "Chinese (China)",
+      "Spanish",
+      "Arabic",
+      "Thai"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 209682,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 7663,
+    "allLanguageCodes": [
+      "en",
+      "ar",
+      "th",
+      "zh",
+      "es",
+      "ja"
+    ],
+    "avgProductRating": 4.848362260211405,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b2/65f2d3143d48b29c346332efac1118/AI4ESquareLogo.png",
+    "objectUrl": "/learn/ai-for-everyone",
+    "objectID": "course~daG-a-O1EeijKBISCWxf6g",
+    "_snippetResult": {
+      "description": {
+        "value": "n- The meaning behind common AI terminology, including neural networks, <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000>, deep <ais-highlight-0000000000>learning</ais-highlight-0000000000>, and data science\\n- What AI",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "AI For Everyone",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Neural Networks and Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Turkish",
+      "Japanese",
+      "Chinese (Traditional)",
+      "Spanish",
+      "Chinese (China)",
+      "French",
+      "Portuguese (Brazil)",
+      "Ukrainian",
+      "Vietnamese",
+      "Arabic",
+      "Korean"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 484098,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 66133,
+    "allLanguageCodes": [
+      "zh",
+      "ar",
+      "uk",
+      "en",
+      "vi",
+      "fr",
+      "tr",
+      "ja",
+      "es",
+      "ko",
+      "pt"
+    ],
+    "avgProductRating": 4.892262561807267,
+    "skills": [
+      "Backpropagation",
+      "Deep Learning",
+      "Artificial Neural Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b0/279370104d11e8822ac99a970c5b43/CarouselAds_DL_Neural.png",
+    "objectUrl": "/learn/neural-networks-deep-learning",
+    "objectID": "course~W_mOXCrdEeeNPQ68_4aPpA",
+    "_snippetResult": {
+      "description": {
+        "value": "Deep <ais-highlight-0000000000>learning</ais-highlight-0000000000> engineers are highly sought after, and mastering deep <ais-highlight-0000000000>learning</ais-highlight-0000000000> will give you numerous new career opportunities. Deep <ais-highlight-0000000000>learning</ais-highlight-0000000000>",
+        "matchLevel": "partial"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Neural Networks and Deep <ais-highlight-0000000000>Learning</ais-highlight-0000000000>",
+        "matchLevel": "partial",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 7,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Structuring Machine Learning Projects",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Turkish",
+      "Chinese (Traditional)",
+      "Chinese (China)",
+      "Spanish",
+      "Korean"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 177586,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 34092,
+    "allLanguageCodes": [
+      "zh",
+      "en",
+      "tr",
+      "es",
+      "ko"
+    ],
+    "avgProductRating": 4.779479056670186,
+    "skills": [
+      "Type I And Type Ii Errors",
+      "Deep Learning",
+      "Finger Protocol",
+      "Approximation Error"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/f6/53bf90104d11e8b2d89d7efe59d41d/CarouselAds_DL_ML.png",
+    "objectUrl": "/learn/machine-learning-projects",
+    "objectID": "course~-7ZymCvBEee6gA5XksfBbg",
+    "_snippetResult": {
+      "description": {
+        "value": "this so long as you have basic <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000> knowledge. This is the third course in the Deep <ais-highlight-0000000000>Learning</ais-highlight-0000000000> Specialization.",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Structuring <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> Projects",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "machine",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 16,
+    "tagline": "Offered by Duke University",
+    "name": "Introduction to Machine Learning",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 11215,
+    "partners": [
+      "Duke University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 167,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.640718562874252,
+    "skills": [
+      "Perceptron",
+      "Multilayer Perceptron",
+      "Omega Language",
+      "Artificial Neural Network",
+      "Logistic Regression",
+      "Machine Learning"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/8f/7afa60cbe911e8a233973e775a70ad/machine-learning-3.png",
+    "objectUrl": "/learn/machine-learning-duke",
+    "objectID": "course~8BJHzZD_EeiKohJBs5wRGA",
+    "_snippetResult": {
+      "description": {
+        "value": "This course will provide you a foundational understanding of <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000> models (logistic regression, multilayer perceptrons, convolutional neural networks, natural",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "machine",
+          "learning"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 17,
+    "tagline": "Offered by Google Cloud",
+    "name": "Machine Learning for Business Professionals",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/4e/c2f4c0f4bb11e69a33576c875f4294/cloud-twitter-avatar.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 9266,
+    "partners": [
+      "Google Cloud"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 197,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.598984771573604,
+    "skills": [
+      "Data Segment",
+      "Integration Testing",
+      "Machine Learning",
+      "Data Collection"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/dc/baa94699e3438ca23e8be683f83591/machine-learning-business_icon.png",
+    "objectUrl": "/learn/machine-learning-business-professionals",
+    "objectID": "course~oevpufy2Eeio4BIihiZW_g",
+    "_snippetResult": {
+      "description": {
+        "value": "This course is intended to be an introduction to <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000> for non-technical business professionals. There is a lot",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> for Business Professionals",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "machine",
+          "learning"
+        ]
+      }
+    }
+  }
+]

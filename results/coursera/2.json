@@ -1,0 +1,510 @@
+[
+    {
+        "avgLearningHours": 10,
+        "tagline": "Offered by Amazon Web Services",
+        "name": "Getting Started with AWS Machine Learning",
+        "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/e0/2a7a2fe4174172987b33d96329cd47/unnamed-2-.png"
+        ],
+        "subtitleLanguage": [],
+        "productDifficultyLevel": "Intermediate",
+        "audience": null,
+        "enrollments": 21193,
+        "partners": [
+            "Amazon Web Services"
+        ],
+        "language": "English",
+        "entityType": "COURSE",
+        "numProductRatings": 216,
+        "allLanguageCodes": [
+            "en"
+        ],
+        "avgProductRating": 4.305555555555555,
+        "skills": [
+            "Artificial Intelligence",
+            "Amazon Web Services",
+            "Data Model",
+            "Web Service",
+            "Data Modeling",
+            "Web",
+            "Amazon Web Services"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/4c/a2b3d72eae428b9022a328718d978e/MachineLearning-02.jpg",
+        "objectUrl": "/learn/aws-machine-learning",
+        "objectID": "course~GHxiT9MGEemYpxKNJIfVmA",
+        "_snippetResult": {
+            "description": {
+                "value": "course will teach you how to get started with AWS <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000>. Key topics include: <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> on AWS, Computer",
+                "matchLevel": "full"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "Getting Started with AWS <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000>",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                    "machine",
+                    "learning"
+                ]
+            }
+        }
+    },
+    {
+        "avgLearningHours": 24,
+        "tagline": "Offered by University of Washington",
+        "name": "Machine Learning Foundations: A Case Study Approach",
+        "partnerLogos": [
+            "https://coursera-university-assets.s3.amazonaws.com/8c/ff2f50afdf11e5ae9d8158e68cbd96/UW_square_180x180.png"
+        ],
+        "subtitleLanguage": [
+            "Chinese (China)",
+            "Vietnamese",
+            "Korean"
+        ],
+        "productDifficultyLevel": "Mixed",
+        "audience": null,
+        "enrollments": 206579,
+        "partners": [
+            "University of Washington"
+        ],
+        "language": "English",
+        "entityType": "COURSE",
+        "numProductRatings": 9165,
+        "allLanguageCodes": [
+            "en",
+            "vi",
+            "zh",
+            "ko"
+        ],
+        "avgProductRating": 4.642553191489362,
+        "skills": [
+            "Statistical Classification",
+            "Machine Learning",
+            "Ipython"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/e4/3283d04d0111e5970145eef7ee0b59/gears-818461_1280.jpg",
+        "objectUrl": "/learn/ml-foundations",
+        "objectID": "course~qi9mnkIJEeWC4g7VhG4bTQ",
+        "_snippetResult": {
+            "description": {
+                "value": "need a deeper understanding of the core ways in which <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000> can improve your business?  Do you want to",
+                "matchLevel": "full"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "<ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> Foundations: A Case Study Approach",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                    "machine",
+                    "learning"
+                ]
+            }
+        }
+    },
+    {
+        "avgLearningHours": 24,
+        "tagline": "Offered by University of Michigan",
+        "name": "Applied Machine Learning in Python",
+        "partnerLogos": [
+            "https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png"
+        ],
+        "subtitleLanguage": [
+            "Korean"
+        ],
+        "productDifficultyLevel": "Intermediate",
+        "audience": null,
+        "enrollments": 126570,
+        "partners": [
+            "University of Michigan"
+        ],
+        "language": "English",
+        "entityType": "COURSE",
+        "numProductRatings": 4457,
+        "allLanguageCodes": [
+            "en",
+            "ko"
+        ],
+        "avgProductRating": 4.648193852367063,
+        "skills": [
+            "Supervised Learning",
+            "Machine Learning",
+            "Evaluation",
+            "Scikit-Learn"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/f8/d9a0901e1411e6b4be05fc1f155449/python_datascience_thumbnail_machinelearning_1x1.png",
+        "objectUrl": "/learn/python-machine-learning",
+        "objectID": "course~di4l_R0lEeaP7xL2JHHq4w",
+        "_snippetResult": {
+            "description": {
+                "value": "This course will introduce the learner to applied <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000>, focusing more on the techniques and methods than on the",
+                "matchLevel": "full"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "Applied <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> in Python",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                    "machine",
+                    "learning"
+                ]
+            }
+        }
+    },
+    {
+        "avgLearningHours": 28,
+        "tagline": "Offered by Goldsmiths, University of London, and University of London",
+        "name": "Foundations of Data Science: K-Means Clustering in Python",
+        "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/e6/5f6890dbeb11e88554096d774d24d1/GS_Logo_Transparent_2018-_2_.png",
+            "http://coursera-university-assets.s3.amazonaws.com/fb/b28a301e0211e8a40e23e4176c8e4a/UoL-Logo_180x180.png"
+        ],
+        "subtitleLanguage": [],
+        "productDifficultyLevel": "Beginner",
+        "audience": null,
+        "enrollments": 2927,
+        "partners": [
+            "Goldsmiths, University of London",
+            "University of London"
+        ],
+        "language": "English",
+        "entityType": "COURSE",
+        "numProductRatings": 41,
+        "allLanguageCodes": [
+            "en"
+        ],
+        "avgProductRating": 4.707317073170731,
+        "skills": [
+            "K-Means Clustering",
+            "Numpy",
+            "Exploratory Data Analysis",
+            "Data Clustering Algorithms",
+            "Data Analysis",
+            "Cluster Analysis",
+            "Data Uri Scheme",
+            "Matplotlib"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/e4/9969c017f011e9ab95e949bb9aab53/iStock-897683944---crop.jpg",
+        "objectUrl": "/learn/data-science-k-means-clustering-python",
+        "objectID": "course~ZIbi3keZEeiXKw7ezJHsxg",
+        "_snippetResult": {
+            "description": {
+                "value": "Organisations all around the world are using data to predict behaviours and extract valuable real-world insights to inform decisions",
+                "matchLevel": "none"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "Foundations of Data Science: K-Means Clustering in Python",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "avgLearningHours": 16,
+        "tagline": "Offered by University of California San Diego",
+        "name": "Machine Learning With Big Data",
+        "partnerLogos": [
+            "https://coursera-university-assets.s3.amazonaws.com/4b/a551cb6e1307836a21059a79e7ae70/UCSanDiego-Coursera-square.png"
+        ],
+        "subtitleLanguage": [
+            "Chinese (China)"
+        ],
+        "productDifficultyLevel": "Mixed",
+        "audience": null,
+        "enrollments": 36353,
+        "partners": [
+            "University of California San Diego"
+        ],
+        "language": "English",
+        "entityType": "COURSE",
+        "numProductRatings": 1440,
+        "allLanguageCodes": [
+            "en",
+            "zh"
+        ],
+        "avgProductRating": 4.572916666666667,
+        "skills": [
+            "Machine Learning Concepts",
+            "Data Clustering Algorithms",
+            "Machine Learning",
+            "Statistical Classification"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/7d/5f9a504d0911e5aa3207874406679c/big-data-_2_.jpg",
+        "objectUrl": "/learn/big-data-machine-learning",
+        "objectID": "course~loAmvxJgEea8fxLSgUgxeQ",
+        "_snippetResult": {
+            "description": {
+                "value": "an approach to leverage data using the steps in the <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000> process.\\n•\\tApply <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000> techniques to explore",
+                "matchLevel": "full"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "<ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> With Big Data",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                    "machine",
+                    "learning"
+                ]
+            }
+        }
+    },
+    {
+        "avgLearningHours": 16,
+        "tagline": "Offered by Google Cloud",
+        "name": "Google Cloud Platform Big Data and Machine Learning Fundamentals en Español",
+        "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/4e/c2f4c0f4bb11e69a33576c875f4294/cloud-twitter-avatar.png"
+        ],
+        "subtitleLanguage": [
+            "English"
+        ],
+        "productDifficultyLevel": "Intermediate",
+        "audience": null,
+        "enrollments": 7497,
+        "partners": [
+            "Google Cloud"
+        ],
+        "language": "Spanish",
+        "entityType": "COURSE",
+        "numProductRatings": 207,
+        "allLanguageCodes": [
+            "es",
+            "en"
+        ],
+        "avgProductRating": 4.685990338164252,
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning",
+            "Cloud Platforms",
+            "Google",
+            "Google Cloud Platform",
+            "Big Data",
+            "Data Segment"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/28/b66a50593d11e79e47c94609bf0c0b/BD-and-ML-Fundamentals-v3.jpg",
+        "objectUrl": "/learn/gcp-big-data-ml-fundamentals-es",
+        "objectID": "course~y0RR_vZ4EeeHQRLf02JF5g",
+        "_snippetResult": {
+            "description": {
+                "value": "En este curso a pedido y acelerado de 1 semana, los participantes descubrirán las capacidades de los macrodatos y del",
+                "matchLevel": "none"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "Google Cloud Platform Big Data and <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> Fundamentals en Español",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                    "machine",
+                    "learning"
+                ]
+            }
+        }
+    },
+    {
+        "avgLearningHours": 10,
+        "tagline": "Offered by deeplearning.ai",
+        "name": "IA para todos",
+        "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+        ],
+        "subtitleLanguage": [
+            "Japanese",
+            "Chinese (Traditional)",
+            "English",
+            "Chinese (China)",
+            "Thai",
+            "Arabic"
+        ],
+        "productDifficultyLevel": "Beginner",
+        "audience": null,
+        "enrollments": 3023,
+        "partners": [
+            "deeplearning.ai"
+        ],
+        "language": "Spanish",
+        "entityType": "COURSE",
+        "numProductRatings": 152,
+        "allLanguageCodes": [
+            "es",
+            "zh",
+            "ja",
+            "ar",
+            "th",
+            "en"
+        ],
+        "avgProductRating": 4.921052631578948,
+        "skills": [],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b2/65f2d3143d48b29c346332efac1118/AI4ESquareLogo.png",
+        "objectUrl": "/learn/ai-for-everyone-es",
+        "objectID": "course~-dStqHwLEemRuwqxTtPkKg",
+        "_snippetResult": {
+            "description": {
+                "value": "La IA no es solo para ingenieros. Si desea que su organización esté mejor preparada en el uso de la",
+                "matchLevel": "none"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "IA para todos",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "avgLearningHours": 14,
+        "tagline": "Offered by Johns Hopkins University",
+        "name": "Practical Machine Learning",
+        "partnerLogos": [
+            "https://coursera-university-assets.s3.amazonaws.com/74/7ae340ec6911e5b395490a2a565172/JHU-Logo-Square-Mini_180px.png"
+        ],
+        "subtitleLanguage": [
+            "Korean"
+        ],
+        "productDifficultyLevel": "Mixed",
+        "audience": null,
+        "enrollments": 101915,
+        "partners": [
+            "Johns Hopkins University"
+        ],
+        "language": "English",
+        "entityType": "COURSE",
+        "numProductRatings": 2728,
+        "allLanguageCodes": [
+            "en",
+            "ko"
+        ],
+        "avgProductRating": 4.49816715542522,
+        "skills": [
+            "Random Forest",
+            "Randomness",
+            "Predictive Modelling",
+            "Environment Variable",
+            "Machine Learning Algorithms",
+            "Algorithms",
+            "Machine Learning"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/a1/e7472069b611e3ae92c39913bb30e0/PredictionMachineLearning.jpg",
+        "objectUrl": "/learn/practical-machine-learning",
+        "objectID": "course~H02KsW1DEeWXrA6ju0fvnQ",
+        "_snippetResult": {
+            "description": {
+                "value": "One of the most common tasks performed by data scientists and data analysts are prediction and <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000>. This course",
+                "matchLevel": "full"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "Practical <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000>",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                    "machine",
+                    "learning"
+                ]
+            }
+        }
+    },
+    {
+        "avgLearningHours": 9,
+        "tagline": "Offered by IBM",
+        "name": "Introduction to Artificial Intelligence (AI)",
+        "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+        ],
+        "subtitleLanguage": [],
+        "productDifficultyLevel": "Beginner",
+        "audience": null,
+        "enrollments": 20205,
+        "partners": [
+            "IBM"
+        ],
+        "language": "English",
+        "entityType": "COURSE",
+        "numProductRatings": 1392,
+        "allLanguageCodes": [
+            "en"
+        ],
+        "avgProductRating": 4.73132183908046,
+        "skills": [
+            "Unsupervised Learning",
+            "Integration Testing",
+            "Artificial Intelligence",
+            "Artificial Intelligence Applications"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/f7/9812f978144ce8ac721727bc516cb0/Intro-to-AI-Naimo.jpg",
+        "objectUrl": "/learn/introduction-to-ai",
+        "objectID": "course~mR7MlUaTEemuHQ4HpHozrA",
+        "_snippetResult": {
+            "description": {
+                "value": "and applications of AI, understand AI concepts and terms like <ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000>, deep <ais-highlight-0000000000>learning</ais-highlight-0000000000> and neural networks. You will be",
+                "matchLevel": "full"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "Introduction to Artificial Intelligence (AI)",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "avgLearningHours": 16,
+        "tagline": "Offered by IBM",
+        "name": "Advanced Machine Learning and Signal Processing",
+        "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+        ],
+        "subtitleLanguage": [],
+        "productDifficultyLevel": "Advanced",
+        "audience": null,
+        "enrollments": 12252,
+        "partners": [
+            "IBM"
+        ],
+        "language": "English",
+        "entityType": "COURSE",
+        "numProductRatings": 545,
+        "allLanguageCodes": [
+            "en"
+        ],
+        "avgProductRating": 4.519266055045872,
+        "skills": [
+            "Machine Learning",
+            "Unsupervised Learning",
+            "Signal Processing",
+            "Machine Learning Algorithms"
+        ],
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/8a/7607508be611e89f604728676b46b0/IBM_Watson_IoT-_Advanced_Machine_Learning_and_Signal_Processing.png",
+        "objectUrl": "/learn/advanced-machine-learning-signal-processing",
+        "objectID": "course~f_F-qCtuEei_fRLwaVDk3g",
+        "_snippetResult": {
+            "description": {
+                "value": "<ais-highlight-0000000000>machine</ais-highlight-0000000000> <ais-highlight-0000000000>learning</ais-highlight-0000000000> modes work. Then we introduce the most popular <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> Frameworks for python Scikit-Learn and SparkML. SparkML",
+                "matchLevel": "full"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "Advanced <ais-highlight-0000000000>Machine</ais-highlight-0000000000> <ais-highlight-0000000000>Learning</ais-highlight-0000000000> and Signal Processing",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                    "machine",
+                    "learning"
+                ]
+            }
+        }
+    }
+]

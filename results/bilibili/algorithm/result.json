@@ -1,0 +1,196 @@
+{
+  "pageUrl": "https://search.bilibili.com/video?keyword=算法",
+  "courses": [
+    {
+      "aid": "18109226"
+    },
+    {
+      "aid": "48922404"
+    },
+    {
+      "aid": "7134874"
+    },
+    {
+      "aid": "29912609"
+    },
+    {
+      "aid": "66547337"
+    },
+    {
+      "aid": "81904706"
+    },
+    {
+      "aid": "50847981"
+    },
+    {
+      "aid": "81867896"
+    },
+    {
+      "aid": "66468649"
+    },
+    {
+      "aid": "64288683"
+    },
+    {
+      "aid": "2975983"
+    },
+    {
+      "aid": "79622111"
+    },
+    {
+      "aid": "79288223"
+    },
+    {
+      "aid": "80586591"
+    },
+    {
+      "aid": "54029771"
+    },
+    {
+      "aid": "50832060"
+    },
+    {
+      "aid": "69685909"
+    },
+    {
+      "aid": "33835237"
+    },
+    {
+      "aid": "37947862"
+    },
+    {
+      "aid": "73404115"
+    }
+  ],
+  "video-detail-0": {
+    "pageUrl": "https://www.bilibili.com/video/av18109226?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "【公开课】十大算法精讲【全10集】",
+      "collect": "--",
+      "tags": [
+        "算法",
+        "公开课"
+      ]
+    }
+  },
+  "video-detail-2": {
+    "pageUrl": "https://www.bilibili.com/video/av7134874?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "【北大公开课】  算法设计与分析 屈婉玲教授 （76p）",
+      "collect": "--",
+      "tags": [
+        "算法",
+        "北大",
+        "公开课",
+        "算法设计与分析"
+      ]
+    }
+  },
+  "video-detail-4": {
+    "pageUrl": "https://www.bilibili.com/video/av66547337?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "算法第四版 - Course课程（自制中文字幕，持续更新）",
+      "collect": "--",
+      "tags": [
+        "学习",
+        "算法",
+        "公开课",
+        "编程",
+        "算法 第四版",
+        "算法第四版",
+        "自制字幕",
+        "数据结构",
+        "计算机科学",
+        "线上课堂"
+      ]
+    }
+  },
+  "video-detail-6": {
+    "pageUrl": "https://www.bilibili.com/video/av50847981?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "8分钟讲懂一个算法",
+      "collect": "--",
+      "tags": [
+        "算法"
+      ]
+    }
+  },
+  "video-detail-8": {
+    "pageUrl": "https://www.bilibili.com/video/av66468649?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "《算法导论》全22集",
+      "collect": "--",
+      "tags": [
+        "算法",
+        "计算机",
+        "视频教程",
+        "编程",
+        "公开课"
+      ]
+    }
+  },
+  "video-detail-10": {
+    "pageUrl": "https://www.bilibili.com/video/av2975983?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "（完结）（小甲鱼）数据结构和算法",
+      "collect": "--",
+      "tags": [
+        "数据结构",
+        "有趣啊",
+        "公开课"
+      ]
+    }
+  },
+  "video-detail-12": {
+    "pageUrl": "https://www.bilibili.com/video/av79288223?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "【柴哔哔42】截至第十赛季精华一谁是皮肤含金之王？仍然采用奖牌榜算法！",
+      "collect": "--",
+      "tags": [
+        "手机游戏",
+        "第五人格",
+        "全能打卡挑战",
+        "杰克",
+        "皮肤",
+        "前锋",
+        "奇珍",
+        "金皮",
+        "稀世",
+        "紫皮"
+      ]
+    }
+  },
+  "video-detail-14": {
+    "pageUrl": "https://www.bilibili.com/video/av54029771?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "尚硅谷-韩顺平图解Java数据结构和算法",
+      "collect": "--",
+      "tags": [
+        "数据结构",
+        "尚硅谷",
+        "java",
+        "java数据结构",
+        "算法"
+      ]
+    }
+  },
+  "video-detail-16": {
+    "pageUrl": "https://www.bilibili.com/video/av69685909?from=search&seid=10310501330118495042",
+    "detail": {
+      "title": "【柴哔哔34】截至第九赛季精华一谁是皮肤含金之王？仍然采用奖牌榜算法！",
+      "collect": "--",
+      "tags": [
+        "第五人格",
+        "手机游戏",
+        "魔术师",
+        "杰克",
+        "皮肤",
+        "前锋",
+        "奇珍",
+        "金皮",
+        "稀世",
+        "紫皮"
+      ]
+    }
+  }
+}

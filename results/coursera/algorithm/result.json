@@ -1,0 +1,963 @@
+[
+  {
+    "avgLearningHours": 33,
+    "tagline": "Offered by Princeton University",
+    "name": "Algorithms, Part I",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/44/8de6f8bd5ac4cf7e36bdcf7ceff393/PU_subscription_logo.png"
+    ],
+    "subtitleLanguage": [
+      "Russian",
+      "Korean"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 444990,
+    "partners": [
+      "Princeton University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 5696,
+    "allLanguageCodes": [
+      "en",
+      "ru",
+      "ko"
+    ],
+    "avgProductRating": 4.91871488764045,
+    "skills": [
+      "Algorithmics",
+      "Data Structure",
+      "Algorithms",
+      "Data Uri Scheme",
+      "Sorting"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/e3/b971b05cfe11e89d97d1bd932bfd30/algs4partI-logo.png",
+    "objectUrl": "/learn/algorithms-part1",
+    "objectID": "course~yQcuJCOcEeagwg7hVay0BQ",
+    "_snippetResult": {
+      "description": {
+        "value": "implementations. Part I covers elementary data structures, sorting, and searching <mark>algorithms</mark>. Part II focuses on graph- and string-processing <mark>algorithms</mark>",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Algorithms</mark>, Part I",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 33,
+    "tagline": "Offered by National Research University Higher School of Economics, and University of California San Diego",
+    "name": "Algorithmic Toolbox",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png",
+      "https://coursera-university-assets.s3.amazonaws.com/4b/a551cb6e1307836a21059a79e7ae70/UCSanDiego-Coursera-square.png"
+    ],
+    "subtitleLanguage": [
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 167623,
+    "partners": [
+      "National Research University Higher School of Economics",
+      "University of California San Diego"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 5414,
+    "allLanguageCodes": [
+      "en",
+      "es"
+    ],
+    "avgProductRating": 4.664388622090876,
+    "skills": [
+      "Computer Programming",
+      "Dynamic Programming",
+      "Sorting",
+      "Algorithms",
+      "Greedy Algorithm"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/fb/434400d9ac11e5afbfa359f34ae5f0/logo3.png",
+    "objectUrl": "/learn/algorithmic-toolbox",
+    "objectID": "course~nA4RUW01EeW8nRIpKnwp7Q",
+    "_snippetResult": {
+      "description": {
+        "value": "The course covers basic <mark>algorithm</mark>ic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Algorithm</mark>ic Toolbox",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 21,
+    "tagline": "Offered by Stanford University",
+    "name": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 103780,
+    "partners": [
+      "Stanford University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 3168,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.809974747474747,
+    "skills": [
+      "Randomized Algorithm",
+      "Sorting",
+      "Merge Sort",
+      "Algorithms",
+      "Sorting Algorithm",
+      "Quicksort"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/21/54dd30f05e11e59bf9d905b70dcbd9/cs161logo2.png",
+    "objectUrl": "/learn/algorithms-divide-conquer",
+    "objectID": "course~B8E2c3blEear9RKoJLO5Cw",
+    "_snippetResult": {
+      "description": {
+        "value": "divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized <mark>algorithms</mark> (QuickSort, contraction <mark>algorithm</mark> for min cuts).",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Divide and Conquer, Sorting and Searching, and Randomized <mark>Algorithms</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 22,
+    "tagline": "Offered by Stanford University",
+    "name": "Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 35722,
+    "partners": [
+      "Stanford University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 870,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.837931034482758,
+    "skills": [
+      "Dynamic Programming",
+      "Algorithms",
+      "Computer Programming",
+      "Greedy Algorithm"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera/topics/algo2/large-icon.png",
+    "objectUrl": "/learn/algorithms-greedy",
+    "objectID": "course~NYVeK3blEea0bBInbpCXBQ",
+    "_snippetResult": {
+      "description": {
+        "value": "The primary topics in this part of the specialization are: greedy <mark>algorithms</mark> (scheduling, minimum spanning trees, clustering, Huffman codes) and",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Greedy <mark>Algorithms</mark>, Minimum Spanning Trees, and Dynamic Programming",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 35,
+    "tagline": "Offered by Princeton University",
+    "name": "Algorithms, Part II",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/44/8de6f8bd5ac4cf7e36bdcf7ceff393/PU_subscription_logo.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 106049,
+    "partners": [
+      "Princeton University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 924,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 4.956709956709957,
+    "skills": [
+      "Data Structure",
+      "Algorithms",
+      "Graphs"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/34/b0ca105cfe11e8970eeb2a232d4fdc/algs4partI-logo.png",
+    "objectUrl": "/learn/algorithms-part2",
+    "objectID": "course~fEHS45vFEeaF3g7NeAQepg",
+    "_snippetResult": {
+      "description": {
+        "value": "implementations. Part I covers elementary data structures, sorting, and searching <mark>algorithms</mark>. Part II focuses on graph- and string-processing <mark>algorithms</mark>",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Algorithms</mark>, Part II",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 37,
+    "tagline": "Offered by University of Pennsylvania",
+    "name": "Computational Thinking for Problem Solving",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/5e/4003d6fe94ae4089d5daf13129a515/penn-logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 18071,
+    "partners": [
+      "University of Pennsylvania"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 407,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.756756756756757,
+    "skills": [
+      "Algorithms",
+      "Problem Solving",
+      "Computation",
+      "Pseudocode",
+      "Python Programming",
+      "Flowchart",
+      "Computer Programming",
+      "Fisher Yates Shuffle"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/9b/6a9ff0cb1811e8a19615daa57b354d/CTMOOC_800x800.jpg",
+    "objectUrl": "/learn/computational-thinking-problem-solving",
+    "objectID": "course~0ej5C6CJEeiAExLt68dqiA",
+    "_snippetResult": {
+      "description": {
+        "value": "pillars of computational thinking, how computer scientists develop and analyze <mark>algorithm</mark>s, and how solutions can be realized on a computer",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Computational Thinking for Problem Solving",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 25,
+    "tagline": "Offered by Princeton University",
+    "name": "Analysis of Algorithms",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/44/8de6f8bd5ac4cf7e36bdcf7ceff393/PU_subscription_logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 22961,
+    "partners": [
+      "Princeton University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 57,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.754385964912281,
+    "skills": [
+      "Euler'S Totient Function",
+      "Analytic Combinatorics"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/77/cca8f05cfe11e8970eeb2a232d4fdc/aofa-logo.png",
+    "objectUrl": "/learn/analysis-of-algorithms",
+    "objectID": "course~jjFwDfBcEeWLaBLI8fdMlw",
+    "_snippetResult": {
+      "description": {
+        "value": "method in the context of applications in the analysis of <mark>algorithms</mark> and basic structures such as permutations, trees, strings, words",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Analysis of <mark>Algorithms</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 25,
+    "tagline": "Offered by Duke University",
+    "name": "Java Programming: Solving Problems with Software",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 126038,
+    "partners": [
+      "Duke University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 3022,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 4.607213765718067,
+    "skills": [
+      "Problem Solving",
+      "Computer Programming",
+      "Java (Software Platform)",
+      "Jpeg",
+      "Java Programming"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b6/2019201a9e11e5ace08b26adce8cb5/Java.png",
+    "objectUrl": "/learn/java-programming",
+    "objectID": "course~__y3wBnnEeW9dA4X94-nLQ",
+    "_snippetResult": {
+      "description": {
+        "value": "Learn to code in Java and improve your programming and problem-solving skills. You will learn to design <mark>algorithm</mark>s as",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Java Programming: Solving Problems with Software",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 12,
+    "tagline": "Offered by EIT Digital ",
+    "name": "I/O-efficient algorithms",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/a3/600e10514611e5a00b63619b8b1825/EIT-Digital_Youtube.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 394,
+    "partners": [
+      "EIT Digital "
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 2,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 5,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/6c/0b32b0f87711e880e923f572d52b5f/io_4.png",
+    "objectUrl": "/learn/io-efficient-algorithms",
+    "objectID": "course~3oznDIM5EeeW1A7RTAITCg",
+    "_snippetResult": {
+      "description": {
+        "value": "to be taken into account during the design of an <mark>algorithm</mark>. The goal of this course is to become familiar",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "I/O-efficient <mark>algorithms</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 17,
+    "tagline": "Offered by National Research University Higher School of Economics, and University of California San Diego",
+    "name": "Algorithms on Strings",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png",
+      "https://coursera-university-assets.s3.amazonaws.com/4b/a551cb6e1307836a21059a79e7ae70/UCSanDiego-Coursera-square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 36615,
+    "partners": [
+      "National Research University Higher School of Economics",
+      "University of California San Diego"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 649,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.47457627118644,
+    "skills": [
+      "Algorithms On Strings",
+      "Arrays",
+      "Algorithms",
+      "Search Algorithm",
+      "Pattern Matching"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/1b/5aa390d9ae11e5afbfa359f34ae5f0/logo3.png",
+    "objectUrl": "/learn/algorithms-on-strings",
+    "objectID": "course~UnTtYHl0EeWfrQ7ngHMGEQ",
+    "_snippetResult": {
+      "description": {
+        "value": "information and make search efficient, search engines use many string <mark>algorithms</mark>. Moreover, the emerging field of personalized medicine uses many",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Algorithms</mark> on Strings",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 17,
+    "tagline": "Offered by National Research University Higher School of Economics, and University of California San Diego",
+    "name": "Algorithms on Graphs",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png",
+      "https://coursera-university-assets.s3.amazonaws.com/4b/a551cb6e1307836a21059a79e7ae70/UCSanDiego-Coursera-square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 50443,
+    "partners": [
+      "National Research University Higher School of Economics",
+      "University of California San Diego"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1257,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.714399363564041,
+    "skills": [
+      "Dijkstra'S Algorithm",
+      "Algorithms",
+      "Graphs",
+      "Fisher Yates Shuffle",
+      "Graph Algorithms"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/17/149570d9ae11e5bd22cb7d7d7686df/logo3.png",
+    "objectUrl": "/learn/algorithms-on-graphs",
+    "objectID": "course~R1xPlXlzEeW3pg6oA-kqJQ",
+    "_snippetResult": {
+      "description": {
+        "value": "optimal route and estimate time to destination, you've used <mark>algorithms</mark> on graphs. Graphs arise in various real-world situations",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Algorithms</mark> on Graphs",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by Stanford University",
+    "name": "Graph Search, Shortest Paths, and Data Structures",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 39991,
+    "partners": [
+      "Stanford University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1383,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.83586406362979,
+    "skills": [
+      "Data Structure",
+      "Hash Table",
+      "Hashing",
+      "Graphs",
+      "Memoization",
+      "Algorithms"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/21/54dd30f05e11e59bf9d905b70dcbd9/cs161logo2.png",
+    "objectUrl": "/learn/algorithms-graphs-data-structures",
+    "objectID": "course~wQ9FD3b0EeaahA7WQe-h_w",
+    "_snippetResult": {
+      "description": {
+        "value": "The primary topics in this part of the specialization are: data structures (heaps, balanced search trees, hash tables, bloom filters",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Graph Search, Shortest Paths, and Data Structures",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 15,
+    "tagline": "Offered by Duke University",
+    "name": "Programming Fundamentals",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png"
+    ],
+    "subtitleLanguage": [
+      "Vietnamese"
+    ],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 40599,
+    "partners": [
+      "Duke University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1388,
+    "allLanguageCodes": [
+      "vi",
+      "en"
+    ],
+    "avgProductRating": 4.693083573487032,
+    "skills": [
+      "Algorithms",
+      "Data Type",
+      "Computer Programming",
+      "Omega Language",
+      "Syntax",
+      "Programming Language",
+      "C Programming",
+      "C Programming"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/3f/63c230ac6b11e78079b5cde52a7a37/C1_square.jpg",
+    "objectUrl": "/learn/programming-fundamentals",
+    "objectID": "course~-634YPnoEeaOTwrEsgnL9g",
+    "_snippetResult": {
+      "description": {
+        "value": "will learn how to develop an <mark>algorithm</mark>, then progress to reading code and understanding how programming concepts relate to <mark>algorithms</mark>.",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Programming Fundamentals",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 20,
+    "tagline": "Offered by Rice University",
+    "name": "Algorithmic Thinking (Part 1)",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/0a/f036c28cee4d77a78b078d73cb3f0a/University_Lockups_Digital_Rice_Blue_300x300.png"
+    ],
+    "subtitleLanguage": [
+      "Greek",
+      "Telugu",
+      "Korean",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 35404,
+    "partners": [
+      "Rice University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 275,
+    "allLanguageCodes": [
+      "en",
+      "te",
+      "es",
+      "el",
+      "ko"
+    ],
+    "avgProductRating": 4.669090909090909,
+    "skills": [
+      "Algorithmics",
+      "Algorithms",
+      "Graphs",
+      "Integration Testing"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/6f/41d6809dd811e493f6dbbf8ef7f967/AlgTh_logo.jpg",
+    "objectUrl": "/learn/algorithmic-thinking-1",
+    "objectID": "course~jlAy87ZEEeWddwqLXioIgw",
+    "_snippetResult": {
+      "description": {
+        "value": "part of the course, students will implement several important graph <mark>algorithm</mark>s in Python and then use these <mark>algorithm</mark>s to analyze",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Algorithm</mark>ic Thinking (Part 1)",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 23,
+    "tagline": "Offered by National Research University Higher School of Economics, and University of California San Diego",
+    "name": "Advanced Algorithms and Complexity",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png",
+      "https://coursera-university-assets.s3.amazonaws.com/4b/a551cb6e1307836a21059a79e7ae70/UCSanDiego-Coursera-square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 33773,
+    "partners": [
+      "National Research University Higher School of Economics",
+      "University of California San Diego"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 358,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.564245810055866,
+    "skills": [
+      "Computer Programming",
+      "Np-Completeness",
+      "Algorithms",
+      "Linearity"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/0f/6df730d9ae11e5bd22cb7d7d7686df/logo3.png",
+    "objectUrl": "/learn/advanced-algorithms-and-complexity",
+    "objectID": "course~w7FFV3l0EeW53BJEfL52qQ",
+    "_snippetResult": {
+      "description": {
+        "value": "to step into the area of more complex problems and <mark>algorithms</mark> to solve them. Advanced <mark>algorithms</mark> build upon basic ones",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Advanced <mark>Algorithms</mark> and Complexity",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 27,
+    "tagline": "Offered by Princeton University",
+    "name": "Computer Science:  Algorithms, Theory, and Machines",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/44/8de6f8bd5ac4cf7e36bdcf7ceff393/PU_subscription_logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 25075,
+    "partners": [
+      "Princeton University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 137,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.781021897810219,
+    "skills": [
+      "Computer Architecture",
+      "Data Structure",
+      "Data Segment",
+      "Theoretical Computer Science",
+      "Computer Program",
+      "Computation"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/67/9b32e0140011e89140511cb73975a8/IntroCSlogo.png",
+    "objectUrl": "/learn/cs-algorithms-theory-machines",
+    "objectID": "course~SyKD8hMpEei5XQqHN7tj_g",
+    "_snippetResult": {
+      "description": {
+        "value": "the field of computer science.\\n\\nFirst, we introduce classic <mark>algorithms</mark> along with scientific techniques for evaluating performance, in the",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Computer Science:  <mark>Algorithms</mark>, Theory, and Machines",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 12,
+    "tagline": "Offered by University of Colorado System",
+    "name": "Algorithms, Data Collection, and Starting to Code",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/f7/06e620f1a111e38144319a9c8ed320/cu-stand-alone_1_.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 907,
+    "partners": [
+      "University of Colorado System"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 8,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4,
+    "skills": [
+      "Cut, Copy, And Paste"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b1/2890ad189e41b99f504dc0293f8b14/1-Algorithms-Logo-Final.png",
+    "objectUrl": "/learn/algorithms-data-collection-code",
+    "objectID": "course~hTD2gasoEeikbA5NFwCang",
+    "_snippetResult": {
+      "description": {
+        "value": "lots of different components. In this course, we’ll explore <mark>algorithms</mark> and data collection.\\n\\nMost people have a better",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "<mark>Algorithms</mark>, Data Collection, and Starting to Code",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 20,
+    "tagline": "Offered by Peking University",
+    "name": "算法基础",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/38/d88a069e4cce7bfd0acb86c4c7d6bc/.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 21882,
+    "partners": [
+      "Peking University"
+    ],
+    "language": "Chinese (China)",
+    "entityType": "COURSE",
+    "numProductRatings": 312,
+    "allLanguageCodes": [
+      "zh"
+    ],
+    "avgProductRating": 4.775641025641026,
+    "skills": [
+      "Algorithms"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/e4/2c5d00817b11e39d6bed89a0e9a71f/__logo2.jpg",
+    "objectUrl": "/learn/suanfa-jichu",
+    "objectID": "course~dQ2zhQ_-EeWkZg42h4yEYQ",
+    "_snippetResult": {
+      "description": {
+        "value": "算法代表着用系统的方法描述解决问题的策略",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "算法基础",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 12,
+    "tagline": "Offered by EIT Digital ",
+    "name": "Geometric Algorithms",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/a3/600e10514611e5a00b63619b8b1825/EIT-Digital_Youtube.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 2024,
+    "partners": [
+      "EIT Digital "
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 5,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.2,
+    "skills": [
+      "Range Searching"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/c9/bfe270ee4511e88142413a02b35fbb/course_logo_2.png",
+    "objectUrl": "/learn/geometric-algorithms",
+    "objectID": "course~HgkJY4M6Eeehbwo96zvH1A",
+    "_snippetResult": {
+      "description": {
+        "value": "and concepts needed for the design and analysis of geometric <mark>algorithms</mark> and data structures. Each technique and concept will be",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Geometric <mark>Algorithms</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 22,
+    "tagline": "Offered by École normale supérieure",
+    "name": "Approximation Algorithms Part I",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/cc/0270bae779e20333858add2a25205c/ENS_Logo.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 19732,
+    "partners": [
+      "École normale supérieure"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 129,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.736434108527132,
+    "skills": [
+      "Approximation",
+      "Approximation Algorithm",
+      "Rounding",
+      "Algorithms"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/97/f13fb03fec11e5a811a5a85ed92660/number5.png",
+    "objectUrl": "/learn/approximation-algorithms-part-1",
+    "objectID": "course~bnQLDSclEeWbiBJCM9ziNQ",
+    "_snippetResult": {
+      "description": {
+        "value": "optimum. \\n\\nThis course assumes knowledge of a standard undergraduate <mark>Algorithms</mark> course, and particularly emphasizes <mark>algorithms</mark> that can be designed",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Approximation <mark>Algorithms</mark> Part I",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "algorithm"
+        ]
+      }
+    }
+  }
+]

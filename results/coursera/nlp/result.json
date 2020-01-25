@@ -1,0 +1,954 @@
+[
+  {
+    "avgLearningHours": 34,
+    "tagline": "Offered by National Research University Higher School of Economics",
+    "name": "Natural Language Processing",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 45933,
+    "partners": [
+      "National Research University Higher School of Economics"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 504,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.597222222222222,
+    "skills": [
+      "Omega Language",
+      "Natural Language Processing",
+      "P′′",
+      "Natural Language"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b2/8733c0b06511e7958c7f63f0f736f7/Natural-language-processing-2.png",
+    "objectUrl": "/learn/language-processing",
+    "objectID": "course~blRLgKLDEeeMNA6V0QN2ag",
+    "_snippetResult": {
+      "description": {
+        "value": "a few. Upon completing, you will be able to recognize <mark>NLP</mark> tasks in your day-to-day work, propose approaches",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Natural Language Processing",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Sequence Models",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Korean",
+      "Spanish",
+      "Chinese (China)"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 151662,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 17896,
+    "allLanguageCodes": [
+      "en",
+      "zh",
+      "es",
+      "ko"
+    ],
+    "avgProductRating": 4.798111309789897,
+    "skills": [
+      "Artificial Neural Network",
+      "P′′",
+      "Recurrent Neural Network",
+      "Omega Language",
+      "Long Short-Term Memory",
+      "Deep Learning",
+      "Word Embedding",
+      "Speech Recognition"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/38/1d2dd0104e11e8a9fde55ba46c309d/CarouselAds_DL_Sequence.png",
+    "objectUrl": "/learn/nlp-sequence-models",
+    "objectID": "course~25Fh8ivBEee6gA5XksfBbg",
+    "_snippetResult": {
+      "description": {
+        "value": "This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Sequence Models",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Natural Language Processing in TensorFlow",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 18505,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1302,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.619047619047619,
+    "skills": [
+      "Code Segment",
+      "Omega Language",
+      "P′′",
+      "Natural Language Processing",
+      "Natural Language Generation",
+      "Natural Language"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/9b/d0102c0053480d9e2e9001c8f0e645/TFC3SquareLogo.png",
+    "objectUrl": "/learn/natural-language-processing-tensorflow",
+    "objectID": "course~eWdF_oGHEemfwRIsGCa-_A",
+    "_snippetResult": {
+      "description": {
+        "value": "If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Natural Language Processing in TensorFlow",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Neural Networks and Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Ukrainian",
+      "French",
+      "Portuguese (Brazil)",
+      "Japanese",
+      "Arabic",
+      "Korean",
+      "Chinese (China)",
+      "Spanish",
+      "Turkish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 470280,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 64198,
+    "allLanguageCodes": [
+      "tr",
+      "zh",
+      "en",
+      "uk",
+      "fr",
+      "es",
+      "ko",
+      "pt",
+      "ar",
+      "ja"
+    ],
+    "avgProductRating": 4.892115019159475,
+    "skills": [
+      "Deep Learning",
+      "Artificial Neural Network",
+      "Backpropagation"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/b0/279370104d11e8822ac99a970c5b43/CarouselAds_DL_Neural.png",
+    "objectUrl": "/learn/neural-networks-deep-learning",
+    "objectID": "course~W_mOXCrdEeeNPQ68_4aPpA",
+    "_snippetResult": {
+      "description": {
+        "value": "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Neural Networks and Deep Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 17,
+    "tagline": "Offered by University of Michigan",
+    "name": "Applied Text Mining in Python",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 63661,
+    "partners": [
+      "University of Michigan"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 2141,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 4.234936945352639,
+    "skills": [
+      "Regular Expression",
+      "Natural Language Processing",
+      "Topic Model",
+      "Code Segment",
+      "P′′",
+      "Text Mining",
+      "Natural Language",
+      "Omega Language"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/21/381850484011e6a1703762dd1d87c0/python_datascience_thumbnail_textmining_1x1.png",
+    "objectUrl": "/learn/python-text-mining",
+    "objectID": "course~Bkx-PB00Eea0YQ7Ij7lJXw",
+    "_snippetResult": {
+      "description": {
+        "value": "This course will introduce the learner to text mining and text manipulation basics. The course begins with an understanding of",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Applied Text Mining in Python",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 56,
+    "tagline": "Offered by Stanford University",
+    "name": "Machine Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png"
+    ],
+    "subtitleLanguage": [
+      "Hebrew",
+      "Japanese",
+      "Hindi",
+      "Chinese (China)",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Mixed",
+    "audience": null,
+    "enrollments": 2655317,
+    "partners": [
+      "Stanford University"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 120193,
+    "allLanguageCodes": [
+      "he",
+      "en",
+      "es",
+      "zh",
+      "ja",
+      "hi"
+    ],
+    "avgProductRating": 4.916717279708469,
+    "skills": [
+      "Artificial Neural Network",
+      "Support Vector Machine",
+      "Gnu Octave",
+      "Machine Learning Algorithms",
+      "Machine Learning",
+      "Logistic Regression",
+      "Linearity",
+      "Algorithms"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera/topics/ml/large-icon.png",
+    "objectUrl": "/learn/machine-learning",
+    "objectID": "course~Gtv4Xb1-EeS-ViIACwYKVQ",
+    "_snippetResult": {
+      "description": {
+        "value": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Machine Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 7,
+    "tagline": "Offered by IBM",
+    "name": "AI Workflow: Machine Learning, Visual Recognition and NLP",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 229,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 3,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.666666666666667,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/f8/3f5e4fdb684239996813c2a2a11a97/IBM_AI_WORKFLOW.jpg",
+    "objectUrl": "/learn/ibm-ai-workflow-machine-learning-vr-nlp",
+    "objectID": "course~6MedjtZOEemDkAqyZy15Hg",
+    "_snippetResult": {
+      "description": {
+        "value": "This is the fourth course in the IBM AI Enterprise Workflow Certification specialization.    You are STRONGLY encouraged to complete these",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "AI Workflow: Machine Learning, Visual Recognition and <mark>NLP</mark>",
+        "matchLevel": "full",
+        "fullyHighlighted": false,
+        "matchedWords": [
+          "nlp"
+        ]
+      }
+    }
+  },
+  {
+    "avgLearningHours": 9,
+    "tagline": "Offered by IBM",
+    "name": "Introduction to Artificial Intelligence (AI)",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 16989,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1142,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.743432574430823,
+    "skills": [
+      "Weak Ai",
+      "Integration Testing",
+      "Unsupervised Learning",
+      "Artificial Intelligence"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/f7/9812f978144ce8ac721727bc516cb0/Intro-to-AI-Naimo.jpg",
+    "objectUrl": "/learn/introduction-to-ai",
+    "objectID": "course~mR7MlUaTEemuHQ4HpHozrA",
+    "_snippetResult": {
+      "description": {
+        "value": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to Artificial Intelligence (AI)",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 13,
+    "tagline": "Offered by Google Cloud",
+    "name": "Sequence Models for Time Series and Natural Language Processing",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/4e/c2f4c0f4bb11e69a33576c875f4294/cloud-twitter-avatar.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 3996,
+    "partners": [
+      "Google Cloud"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 246,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.459349593495935,
+    "skills": [
+      "Environment Variable",
+      "Natural Language Processing",
+      "Time Series",
+      "Tensorflow"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/8f/2e6640bc6d11e8b73f2961737adc73/adv-ml-gcp-3x.png",
+    "objectUrl": "/learn/sequence-models-tensorflow-gcp",
+    "objectID": "course~7sNP37xrEeiL4Q6DgrZ6DA",
+    "_snippetResult": {
+      "description": {
+        "value": "This course is an introduction to sequence models and their applications, including an overview of sequence model architectures and how",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Sequence Models for Time Series and Natural Language Processing",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 21,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Convolutional Neural Networks",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [
+      "Chinese (Traditional)",
+      "Japanese",
+      "Korean",
+      "Spanish",
+      "Chinese (China)",
+      "Turkish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 190388,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 26505,
+    "allLanguageCodes": [
+      "en",
+      "tr",
+      "zh",
+      "es",
+      "ko",
+      "ja"
+    ],
+    "avgProductRating": 4.852405206564799,
+    "skills": [
+      "Convolutional Neural Network",
+      "Object Detection",
+      "Artificial Neural Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/2a/5d4810104e11e8a405e7a3b3b97580/CarouselAds_DL_Convolutional.png",
+    "objectUrl": "/learn/convolutional-neural-networks",
+    "objectID": "course~kWGvJivBEeeW5RJUyz1uFA",
+    "_snippetResult": {
+      "description": {
+        "value": "This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Convolutional Neural Networks",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 8,
+    "tagline": "Offered by deeplearning.ai",
+    "name": "Convolutional Neural Networks in TensorFlow",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/2b/054650300011e9adc895106b89a651/GreyLogoName360x360.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 28051,
+    "partners": [
+      "deeplearning.ai"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1886,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.714209968186639,
+    "skills": [
+      "Convolutional Neural Network",
+      "Convolution",
+      "Statistical Classification",
+      "Artificial Neural Network",
+      "Multiclass Classification",
+      "Image Processing",
+      "Inductive Transfer"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/1e/b9a22461864399a689eb74c7ae1fc6/TFC2SquareLogo.png",
+    "objectUrl": "/learn/convolutional-neural-networks-tensorflow",
+    "objectID": "course~5mAuak8zEemKoQ4qeYq26g",
+    "_snippetResult": {
+      "description": {
+        "value": "If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Convolutional Neural Networks in TensorFlow",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 10,
+    "tagline": "Offered by Amazon Web Services",
+    "name": "Getting Started with AWS Machine Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/e0/2a7a2fe4174172987b33d96329cd47/unnamed-2-.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 19698,
+    "partners": [
+      "Amazon Web Services"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 170,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.247058823529412,
+    "skills": [
+      "Artificial Intelligence",
+      "Web",
+      "Amazon Web Services",
+      "Amazon Web Services",
+      "Web Service"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/4c/a2b3d72eae428b9022a328718d978e/MachineLearning-02.jpg",
+    "objectUrl": "/learn/aws-machine-learning",
+    "objectID": "course~GHxiT9MGEemYpxKNJIfVmA",
+    "_snippetResult": {
+      "description": {
+        "value": "on AWS, Computer Vision on AWS, and Natural Language Processing (<mark>NLP</mark>) on AWS. Each topic consists of several modules deep",
+        "matchLevel": "full"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Getting Started with AWS Machine Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 35,
+    "tagline": "Offered by National Research University Higher School of Economics",
+    "name": "Introduction to Deep Learning",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/ef/731264341a445a36c4b42dbdb7ab7b/hse_color_kvadrat_white_e.png"
+    ],
+    "subtitleLanguage": [
+      "Korean"
+    ],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 53410,
+    "partners": [
+      "National Research University Higher School of Economics"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 1186,
+    "allLanguageCodes": [
+      "en",
+      "ko"
+    ],
+    "avgProductRating": 4.609612141652614,
+    "skills": [
+      "Deep Learning",
+      "Artificial Neural Network",
+      "Recurrent Neural Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/30/4d89508f2111e7be561d79af9860d8/Introduction-to-deep-learning2.png",
+    "objectUrl": "/learn/intro-to-deep-learning",
+    "objectID": "course~pNXe13ICEeeBKg4MjLYj6A",
+    "_snippetResult": {
+      "description": {
+        "value": "The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to Deep Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 18,
+    "tagline": "Offered by The University of Edinburgh",
+    "name": "Data Science in Stratified Healthcare and Precision Medicine",
+    "partnerLogos": [
+      "https://coursera-university-assets.s3.amazonaws.com/a9/e4018cf6f3036dcc6762b8058a92f1/square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 5246,
+    "partners": [
+      "The University of Edinburgh"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 86,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.604651162790698,
+    "skills": [
+      "Data Segment",
+      "Learning",
+      "Python Programming",
+      "Omega Language",
+      "Medicine",
+      "Image Analysis",
+      "Computer Programming",
+      "P′′",
+      "Analysis",
+      "Natural Language",
+      "Precision Medicine"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/cf/3f67402b7f11e8bff6877a2aed529e/logo_idea3_1.jpg",
+    "objectUrl": "/learn/datascimed",
+    "objectID": "course~AhAxVZPHEeelHBK9SqQEGA",
+    "_snippetResult": {
+      "description": {
+        "value": "An increasing volume of data is becoming available in biomedicine and healthcare, from genomic data, to electronic patient records and",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Data Science in Stratified Healthcare and Precision Medicine",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 10,
+    "tagline": "Offered by IBM",
+    "name": "Introduction to Deep Learning & Neural Networks with Keras",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 2169,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 80,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.6125,
+    "skills": [
+      "Artificial Neural Network",
+      "Keras"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/25/015d50594c4e74b6e2099114a37905/Brain-under-layers-of-circuit-boards.jpg",
+    "objectUrl": "/learn/introduction-to-deep-learning-with-keras",
+    "objectID": "course~fJCXLJkeEeml5wpuotDEDA",
+    "_snippetResult": {
+      "description": {
+        "value": "Looking to start a career in Deep Learning? Look no further. This course will introduce you to the field of",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Introduction to Deep Learning & Neural Networks with Keras",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 12,
+    "tagline": "Offered by Intel",
+    "name": "An Introduction to Practical Deep Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/49/f63a9059ed48c7b2e63e806a759b50/intel_rgb_3000.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 9864,
+    "partners": [
+      "Intel"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 67,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.328358208955224,
+    "skills": [
+      "Deep Learning",
+      "Artificial Neural Network"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/72/b3a54097ff11e79acebb98a73e7be6/intel_software_blue.jpg",
+    "objectUrl": "/learn/intro-practical-deep-learning",
+    "objectID": "course~a3Q1g0YtEeeJdBL3H0RODg",
+    "_snippetResult": {
+      "description": {
+        "value": "This course provides an introduction to Deep Learning, a field that aims to harness the enormous amounts of data that",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "An Introduction to Practical Deep Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 8,
+    "tagline": "Offered by IBM",
+    "name": "AI Workflow: Business Priorities and Data Ingestion",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 305,
+    "partners": [
+      "IBM"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 2,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.5,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/91/01a8bbfcb5431bb1156e7e486e2def/IBM_AI_WORKFLOW.png",
+    "objectUrl": "/learn/ibm-ai-workflow-business-priorities-data-ingestion",
+    "objectID": "course~kl1SGpRzEembThIC62Cw7g",
+    "_snippetResult": {
+      "description": {
+        "value": "This is the first course of a six part specialization.  You are STRONGLY encouraged to complete these courses in order",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "AI Workflow: Business Priorities and Data Ingestion",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 17,
+    "tagline": "Offered by University of Illinois at Urbana-Champaign",
+    "name": "Assessment for Learning",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/d8/42cdc0ab2011e8b910bdf80bed9f6c/CenterILblock-ISQUAREOrangeBackgrnd.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Beginner",
+    "audience": null,
+    "enrollments": 1154,
+    "partners": [
+      "University of Illinois at Urbana-Champaign"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 8,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.875,
+    "skills": [],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/d0/8fd6303fd911e79e71e78acf0bed19/21959660328_36d64e3aa6_o.jpg",
+    "objectUrl": "/learn/assessmentforlearning",
+    "objectID": "course~Dta9_D8qEeeuygoU7FlITg",
+    "_snippetResult": {
+      "description": {
+        "value": "For several decades now, assessment has become an increasingly pressing educational priority. Teacher and school accountability systems have come to",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Assessment for Learning",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 10,
+    "tagline": "Offered by Google Cloud",
+    "name": "How Google does Machine Learning em Português Brasileiro",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/4e/c2f4c0f4bb11e69a33576c875f4294/cloud-twitter-avatar.png"
+    ],
+    "subtitleLanguage": [
+      "German",
+      "French",
+      "Japanese",
+      "English",
+      "Spanish"
+    ],
+    "productDifficultyLevel": "Intermediate",
+    "audience": null,
+    "enrollments": 556,
+    "partners": [
+      "Google Cloud"
+    ],
+    "language": "Portuguese (Brazil)",
+    "entityType": "COURSE",
+    "numProductRatings": 47,
+    "allLanguageCodes": [
+      "de",
+      "fr",
+      "pt",
+      "en",
+      "es",
+      "ja"
+    ],
+    "avgProductRating": 4.787234042553192,
+    "skills": [
+      "Google",
+      "Machine Learning",
+      "Google Compute Engine"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/5e/5c506015cc11e89638a9d3cc15d317/new-ml-on-gcp-logo.png",
+    "objectUrl": "/learn/google-machine-learning-br",
+    "objectID": "course~bHHZ82j_EeiGFwrssIKG4A",
+    "_snippetResult": {
+      "description": {
+        "value": "O que é aprendizado de máquina e que tipos de problema ele pode resolver? O Google pensa no aprendizado de",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "How Google does Machine Learning em Português Brasileiro",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  },
+  {
+    "avgLearningHours": 11,
+    "tagline": "Offered by Google Cloud",
+    "name": "Image Understanding with TensorFlow on GCP",
+    "partnerLogos": [
+      "http://coursera-university-assets.s3.amazonaws.com/4e/c2f4c0f4bb11e69a33576c875f4294/cloud-twitter-avatar.png"
+    ],
+    "subtitleLanguage": [],
+    "productDifficultyLevel": "Advanced",
+    "audience": null,
+    "enrollments": 3714,
+    "partners": [
+      "Google Cloud"
+    ],
+    "language": "English",
+    "entityType": "COURSE",
+    "numProductRatings": 292,
+    "allLanguageCodes": [
+      "en"
+    ],
+    "avgProductRating": 4.595890410958904,
+    "skills": [
+      "Convolutional Neural Network",
+      "Artificial Neural Network",
+      "Advanced Machine Learning"
+    ],
+    "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/a4/99eae0bd3f11e88d1bdf247fdfe9da/adv-ml-gcp-3x.png",
+    "objectUrl": "/learn/image-understanding-tensorflow-gcp",
+    "objectID": "course~Y23EubLbEeiKUAqNzm0xRA",
+    "_snippetResult": {
+      "description": {
+        "value": "This is the third course of the Advanced Machine Learning on GCP specialization. In this course,\\nWe will take a",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "name": {
+        "value": "Image Understanding with TensorFlow on GCP",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
+    }
+  }
+]
